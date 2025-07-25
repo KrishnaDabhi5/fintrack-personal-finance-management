@@ -1,0 +1,1199 @@
+DATE,AMOUNT,SUBCATEGORY,CATEGORY,SOURCE,DESCRIPTION
+...existing code...,,,,,
+{all rows: for each,,,,,
+2025-07-13,31.49,Restaurants,Food,Credit Card,"Restaurants at Brown, Carter and Bailey"
+2024-12-05,142.74,Snacks,Food,Cash,Snacks at Brown PLC
+2024-09-05,383.43,Fuel,Transport,Credit Card,Fuel at Frederick Inc
+2024-11-28,264.78,Electricity,Utilities,Credit Card,Electricity at Gomez and Sons
+2025-04-24,898.43,Groceries,Food,Checkings,Groceries at Larson Inc
+2025-03-03,733.58,Pharmacy,Health,Savings,"Pharmacy at Davis, Brock and Butler"
+2024-11-17,907.37,Fuel,Transport,Checkings,Fuel at Oliver and Sons
+2024-12-15,589.37,Cafes,Food,Credit Card,Cafes at Schmidt-Hansen
+2024-10-07,515.65,Events,Entertainment,Credit Card,Events at Schaefer-Montes
+2024-11-29,153.96,Restaurants,Food,Credit Card,Restaurants at Vance Inc
+2025-02-07,50.33,Doctor,Health,Checkings,"Doctor at Black, Torres and Vincent"
+2025-01-16,88.82,Public Transport,Transport,Savings,Public Transport at Martin-Fernandez
+2024-08-30,365.88,Doctor,Health,Cash,Doctor at Jenkins-Clayton
+2024-09-09,746.62,Clothes,Shopping,Credit Card,Clothes at Moore-Harris
+2024-09-05,600.77,Furniture,Shopping,Cash,Furniture at Yang-Allison
+2024-08-22,980.79,Groceries,Food,Cash,"Groceries at Powell, Moore and Sanders"
+2024-08-19,30.02,Cafes,Food,Checkings,Cafes at Ray Group
+2025-03-04,470.71,Electronics,Shopping,Cash,"Electronics at Rios, Gonzales and Adams"
+2024-12-09,215.94,Doctor,Health,Cash,Doctor at Holloway-Smith
+2025-07-07,533.73,Games,Entertainment,Cash,Games at Hayes LLC
+2025-05-10,906.02,Electricity,Utilities,Credit Card,Electricity at Pierce Ltd
+2024-07-25,566.69,Movies,Entertainment,Cash,Movies at Cardenas LLC
+2025-02-03,820.57,Cafes,Food,Savings,Cafes at Fleming Inc
+2025-05-29,326.95,Insurance,Health,Cash,"Insurance at Spencer, Hopkins and Johnson"
+2024-12-02,472.91,Internet,Utilities,Credit Card,"Internet at Richard, Hunter and Krause"
+2025-06-15,566.08,Water,Utilities,Cash,Water at Kidd LLC
+2024-11-10,862.53,Internet,Utilities,Credit Card,Internet at Cuevas-Davis
+2024-11-11,824.98,Clothes,Shopping,Savings,"Clothes at White, Jacobs and Perez"
+2025-02-08,672.76,Electricity,Utilities,Credit Card,"Electricity at Medina, Brown and Adams"
+2025-06-25,355.97,Books,Shopping,Checkings,Books at Bell Inc
+2025-03-28,435.86,Water,Utilities,Checkings,Water at Horton Ltd
+2024-09-29,59.34,Pharmacy,Health,Savings,"Pharmacy at Norman, Lawson and Bishop"
+2024-12-21,267.0,Furniture,Shopping,Checkings,"Furniture at Johnson, Robles and Black"
+2024-10-09,884.43,Cafes,Food,Checkings,Cafes at Cline-Gross
+2024-10-11,782.44,Taxi,Transport,Credit Card,Taxi at Gomez-Fernandez
+2025-02-26,181.31,Parking,Transport,Checkings,Parking at Keller and Sons
+2025-01-24,538.49,Electronics,Shopping,Cash,Electronics at Moreno-Clay
+2025-04-11,981.65,Furniture,Shopping,Savings,"Furniture at Herrera, Avila and Jones"
+2024-09-14,434.57,Doctor,Health,Cash,Doctor at Bruce-Allen
+2024-12-14,12.32,Groceries,Food,Cash,Groceries at Meyers-Smith
+2025-05-30,764.75,Electricity,Utilities,Cash,Electricity at Parks-Reynolds
+2025-07-08,423.39,Internet,Utilities,Cash,"Internet at Reilly, Rose and Henry"
+2025-03-10,526.66,Taxi,Transport,Checkings,Taxi at Torres-Herrera
+2025-05-08,379.51,Gym,Health,Cash,"Gym at Brown, Hicks and Rodriguez"
+2025-07-06,25.31,Snacks,Food,Credit Card,"Snacks at Kelly, Schneider and Hoffman"
+2024-08-25,115.24,Water,Utilities,Cash,"Water at Greene, Fowler and David"
+2025-04-13,589.27,Electronics,Shopping,Savings,"Electronics at Hill, Valdez and Hamilton"
+2024-09-24,351.42,Fuel,Transport,Checkings,"Fuel at Pierce, Willis and Wang"
+2025-06-28,408.02,Movies,Entertainment,Checkings,Movies at Bentley PLC
+2024-09-10,649.85,Furniture,Shopping,Credit Card,Furniture at Bennett-Nelson
+2024-10-29,222.52,Cafes,Food,Cash,Cafes at Novak-Wilson
+2025-02-01,754.26,Snacks,Food,Cash,"Snacks at Best, Underwood and Miller"
+2025-07-06,760.35,Water,Utilities,Savings,"Water at Macdonald, Hall and Beck"
+2025-05-27,152.55,Books,Shopping,Credit Card,Books at Torres and Sons
+2025-03-03,387.06,Events,Entertainment,Checkings,Events at Schneider-Wright
+2025-03-09,121.74,Electricity,Utilities,Checkings,"Electricity at Barron, Jones and Rodriguez"
+2024-07-20,137.87,Electronics,Shopping,Cash,"Electronics at Dickerson, King and Salinas"
+2024-09-12,137.33,Pharmacy,Health,Checkings,Pharmacy at Lozano-Mccoy
+2025-04-06,294.9,Doctor,Health,Credit Card,"Doctor at Montoya, Frazier and Alvarez"
+2025-01-18,929.46,Fuel,Transport,Savings,Fuel at Carr Inc
+2024-10-24,276.8,Restaurants,Food,Credit Card,Restaurants at Miller Inc
+2025-06-03,989.39,Electricity,Utilities,Credit Card,"Electricity at Cooper, Bradford and Lewis"
+2025-04-16,475.4,Pharmacy,Health,Savings,"Pharmacy at Massey, Stewart and Walker"
+2025-03-30,721.98,Taxi,Transport,Credit Card,"Taxi at Lewis, Hernandez and Gonzalez"
+2025-06-19,560.07,Games,Entertainment,Checkings,Games at Reynolds-Young
+2024-09-17,363.98,Insurance,Health,Checkings,"Insurance at Garza, Garcia and Wright"
+2025-04-15,658.17,Water,Utilities,Checkings,Water at Thomas and Sons
+2024-10-29,96.12,Fuel,Transport,Checkings,Fuel at Roberts PLC
+2025-02-07,583.77,Internet,Utilities,Checkings,Internet at Padilla Inc
+2025-01-08,555.63,Streaming,Entertainment,Savings,Streaming at Robinson-Butler
+2024-08-16,841.45,Doctor,Health,Cash,Doctor at Bullock-Mcbride
+2025-07-16,757.01,Furniture,Shopping,Checkings,Furniture at Jenkins-Thompson
+2025-07-09,326.47,Electronics,Shopping,Credit Card,Electronics at Noble Inc
+2025-03-04,485.3,Doctor,Health,Checkings,Doctor at Parks LLC
+2024-12-15,819.44,Movies,Entertainment,Credit Card,"Movies at Lam, Lopez and Hamilton"
+2024-09-10,719.37,Gas,Utilities,Checkings,"Gas at Novak, Lin and Wells"
+2024-12-16,767.62,Streaming,Entertainment,Savings,Streaming at Meyer and Sons
+2024-08-15,569.31,Games,Entertainment,Checkings,"Games at Hughes, Atkinson and Huynh"
+2025-02-10,321.77,Clothes,Shopping,Savings,Clothes at Lucas-Davis
+2025-07-11,315.05,Movies,Entertainment,Cash,"Movies at Lucas, Romero and Moss"
+2024-11-30,101.48,Streaming,Entertainment,Savings,Streaming at Mcdaniel Group
+2025-05-05,27.09,Snacks,Food,Checkings,Snacks at White-Casey
+2024-11-20,463.26,Doctor,Health,Credit Card,Doctor at Rivera-Waters
+2024-08-30,120.06,Games,Entertainment,Checkings,Games at Martin-Ramos
+2025-02-17,10.85,Gas,Utilities,Cash,Gas at Benitez Ltd
+2024-08-27,311.75,Parking,Transport,Cash,Parking at Hansen LLC
+2024-08-19,178.91,Streaming,Entertainment,Cash,Streaming at Holland Ltd
+2025-06-04,564.32,Snacks,Food,Checkings,Snacks at Jennings Ltd
+2025-04-24,369.93,Groceries,Food,Cash,Groceries at Rodriguez-Carroll
+2024-07-21,825.0,Clothes,Shopping,Savings,Clothes at Williams-Soto
+2025-06-29,768.23,Events,Entertainment,Credit Card,"Events at Rubio, Dunlap and Anderson"
+2024-08-10,719.88,Cafes,Food,Savings,Cafes at Ortiz and Sons
+2025-04-24,362.93,Electricity,Utilities,Checkings,Electricity at Hughes Ltd
+2024-12-22,783.51,Pharmacy,Health,Savings,Pharmacy at Scott-Townsend
+2024-12-24,183.37,Games,Entertainment,Savings,Games at Bailey-Anderson
+2024-09-21,100.24,Clothes,Shopping,Credit Card,"Clothes at Dawson, Church and Greer"
+2025-02-10,191.8,Cafes,Food,Checkings,Cafes at Jennings-Brewer
+2024-12-06,516.79,Water,Utilities,Credit Card,Water at Stanton-Anderson
+2024-07-24,235.83,Groceries,Food,Checkings,"Groceries at Smith, Humphrey and Arnold"
+2024-11-26,910.35,Cafes,Food,Checkings,Cafes at Miller LLC
+2024-09-07,35.28,Electricity,Utilities,Savings,Electricity at Kim-Robertson
+2025-06-01,319.64,Electricity,Utilities,Credit Card,"Electricity at Washington, Escobar and Elliott"
+2025-03-20,396.88,Insurance,Health,Cash,Insurance at Mason-Maddox
+2025-06-08,988.82,Pharmacy,Health,Cash,"Pharmacy at Moore, Hart and Hensley"
+2024-12-27,792.4,Water,Utilities,Checkings,Water at Carter-Smith
+2024-07-26,658.72,Games,Entertainment,Savings,"Games at Moore, Perry and Lopez"
+2024-11-15,598.93,Restaurants,Food,Credit Card,"Restaurants at Archer, Martinez and Dominguez"
+2025-01-02,915.69,Fuel,Transport,Checkings,Fuel at Jefferson Group
+2024-10-29,264.12,Taxi,Transport,Checkings,Taxi at Brown-Morrison
+2025-02-16,213.8,Public Transport,Transport,Checkings,Public Transport at Gray-Long
+2024-10-26,679.32,Furniture,Shopping,Cash,Furniture at Lawrence Ltd
+2025-02-07,483.35,Taxi,Transport,Checkings,Taxi at Moore-Rice
+2024-09-08,353.35,Groceries,Food,Credit Card,Groceries at Simmons-Alvarado
+2024-07-25,539.51,Streaming,Entertainment,Savings,"Streaming at Tucker, Holland and Jackson"
+2024-10-23,811.03,Clothes,Shopping,Checkings,Clothes at Martin-Simmons
+2025-06-04,364.34,Parking,Transport,Credit Card,Parking at Everett PLC
+2024-08-13,633.83,Doctor,Health,Savings,Doctor at Preston-Cruz
+2025-02-05,652.55,Internet,Utilities,Checkings,"Internet at Burke, Robinson and Moore"
+2025-05-14,696.73,Taxi,Transport,Savings,"Taxi at Huff, Berger and Harrell"
+2024-11-14,454.82,Books,Shopping,Savings,Books at Ruiz-Rogers
+2025-07-02,548.27,Insurance,Health,Checkings,Insurance at Miller-Cooper
+2025-03-20,900.0,Cafes,Food,Credit Card,Cafes at Richmond Inc
+2024-08-02,683.45,Parking,Transport,Cash,Parking at Neal Ltd
+2025-01-31,509.9,Movies,Entertainment,Savings,Movies at Mccarthy-Woodward
+2025-06-13,10.52,Insurance,Health,Cash,Insurance at Gibson PLC
+2024-08-22,577.43,Taxi,Transport,Credit Card,"Taxi at Miles, Williams and Acevedo"
+2025-05-12,68.8,Parking,Transport,Savings,Parking at Franco LLC
+2025-04-27,953.81,Taxi,Transport,Checkings,Taxi at Espinoza Ltd
+2025-03-24,759.07,Pharmacy,Health,Savings,"Pharmacy at Saunders, Jensen and Donovan"
+2025-03-30,560.19,Doctor,Health,Cash,"Doctor at Alvarado, Brown and Nguyen"
+2024-12-04,705.1,Taxi,Transport,Savings,Taxi at Santos-Davis
+2024-10-22,832.11,Electricity,Utilities,Credit Card,Electricity at Snow-Henry
+2025-07-19,729.25,Snacks,Food,Savings,Snacks at Sosa-Juarez
+2025-06-24,62.29,Clothes,Shopping,Checkings,Clothes at Woodward-Adams
+2024-10-11,753.85,Clothes,Shopping,Cash,"Clothes at Wright, Leon and Daniels"
+2024-12-19,554.74,Cafes,Food,Credit Card,Cafes at Williams Inc
+2025-01-09,424.39,Gas,Utilities,Savings,Gas at Price LLC
+2025-03-28,183.15,Movies,Entertainment,Checkings,Movies at Frazier-Jones
+2025-01-16,122.78,Gas,Utilities,Checkings,Gas at Villarreal LLC
+2025-03-29,886.01,Games,Entertainment,Savings,"Games at Romero, Martin and Villanueva"
+2025-07-19,863.71,Insurance,Health,Checkings,Insurance at Ward LLC
+2025-05-31,496.63,Gym,Health,Cash,Gym at Grant LLC
+2024-10-10,263.31,Electricity,Utilities,Credit Card,"Electricity at May, Conway and Clark"
+2025-07-11,175.44,Pharmacy,Health,Checkings,Pharmacy at Williams Group
+2025-02-03,422.15,Fuel,Transport,Credit Card,Fuel at Stark-Munoz
+2025-03-16,999.91,Electronics,Shopping,Credit Card,Electronics at Perkins-Mccarthy
+2024-11-01,418.41,Restaurants,Food,Savings,Restaurants at Santos-Johnson
+2024-12-20,75.4,Books,Shopping,Savings,Books at Smith-White
+2024-08-25,204.75,Gym,Health,Credit Card,Gym at Sanchez Ltd
+2025-07-19,37.12,Doctor,Health,Credit Card,Doctor at Figueroa-Palmer
+2024-12-08,518.86,Movies,Entertainment,Cash,Movies at Bowman-Cowan
+2024-11-17,833.62,Games,Entertainment,Credit Card,"Games at Glover, Miller and Joyce"
+2024-09-01,806.81,Internet,Utilities,Savings,Internet at Hogan-Jackson
+2025-03-29,373.57,Fuel,Transport,Cash,Fuel at Padilla-Lopez
+2024-09-13,336.27,Pharmacy,Health,Checkings,"Pharmacy at Knight, Rogers and Garrison"
+2024-09-05,52.76,Snacks,Food,Credit Card,"Snacks at Blanchard, Bush and Bell"
+2025-06-01,962.67,Clothes,Shopping,Credit Card,Clothes at Ortiz-Nolan
+2024-11-21,728.77,Groceries,Food,Savings,"Groceries at Day, Lopez and Green"
+2024-09-07,447.77,Groceries,Food,Cash,Groceries at Jones Ltd
+2025-05-26,624.58,Fuel,Transport,Credit Card,Fuel at Thompson Ltd
+2025-02-03,541.16,Insurance,Health,Credit Card,"Insurance at Gutierrez, Williams and Thompson"
+2024-11-17,401.76,Public Transport,Transport,Checkings,Public Transport at Johnson Inc
+2025-02-27,916.63,Internet,Utilities,Cash,Internet at Martin and Sons
+2025-01-21,920.68,Water,Utilities,Credit Card,Water at Moore-Suarez
+2025-06-20,397.52,Public Transport,Transport,Checkings,Public Transport at Davis Ltd
+2024-08-23,218.98,Pharmacy,Health,Credit Card,"Pharmacy at Taylor, Parker and Smith"
+2024-12-13,975.89,Pharmacy,Health,Cash,Pharmacy at Stevens Inc
+2025-04-17,477.86,Cafes,Food,Savings,Cafes at Allen and Sons
+2024-09-01,76.15,Events,Entertainment,Cash,Events at Myers-Morgan
+2024-12-24,566.51,Public Transport,Transport,Credit Card,"Public Transport at Bailey, Anderson and Hurley"
+2025-07-18,41.36,Cafes,Food,Cash,Cafes at Solis-Barrera
+2025-05-03,566.07,Gas,Utilities,Credit Card,Gas at Dalton LLC
+2024-07-29,16.46,Fuel,Transport,Savings,Fuel at Edwards-Thompson
+2024-08-17,196.82,Pharmacy,Health,Credit Card,Pharmacy at Ali Inc
+2025-06-30,435.12,Restaurants,Food,Savings,Restaurants at Huerta-Adams
+2025-02-14,619.08,Gas,Utilities,Savings,"Gas at Taylor, Combs and Rodriguez"
+2024-09-20,436.22,Games,Entertainment,Cash,Games at Dominguez-Gutierrez
+2025-07-16,314.89,Furniture,Shopping,Credit Card,"Furniture at Cortez, Reilly and Wallace"
+2024-09-30,176.5,Events,Entertainment,Checkings,"Events at Jimenez, Walsh and Jones"
+2025-05-24,937.3,Groceries,Food,Checkings,Groceries at Ferguson-Anderson
+2024-08-13,112.89,Games,Entertainment,Savings,Games at Bonilla-Herman
+2024-11-11,269.19,Water,Utilities,Savings,Water at Jones Group
+2024-08-25,478.84,Streaming,Entertainment,Checkings,Streaming at Williams LLC
+2024-07-22,313.17,Books,Shopping,Savings,Books at Shields Group
+2024-08-02,101.02,Parking,Transport,Cash,Parking at Murphy LLC
+2025-02-12,673.31,Public Transport,Transport,Checkings,Public Transport at Tran Group
+2025-05-31,686.33,Gym,Health,Savings,Gym at Powell and Sons
+2024-12-02,762.76,Movies,Entertainment,Credit Card,"Movies at Roberts, Gilbert and Reed"
+2025-06-25,493.27,Electricity,Utilities,Credit Card,Electricity at Romero-White
+2024-11-27,471.68,Cafes,Food,Credit Card,Cafes at Trevino-Newman
+2025-05-21,508.66,Taxi,Transport,Savings,"Taxi at Molina, Mitchell and Sanchez"
+2025-05-03,257.73,Public Transport,Transport,Cash,Public Transport at Wilkerson LLC
+2024-08-20,282.18,Insurance,Health,Savings,Insurance at Paul PLC
+2025-03-24,960.74,Parking,Transport,Cash,"Parking at Smith, Coleman and Rodriguez"
+2024-09-28,11.21,Gas,Utilities,Credit Card,Gas at Edwards-Shaw
+2025-06-26,968.89,Pharmacy,Health,Checkings,"Pharmacy at Baker, Gonzalez and Farrell"
+2024-07-25,197.51,Water,Utilities,Cash,"Water at Durham, Ramsey and Craig"
+2025-05-31,303.08,Internet,Utilities,Savings,Internet at Underwood LLC
+2024-12-02,807.21,Gas,Utilities,Checkings,Gas at Oneill-Austin
+2024-11-22,227.65,Water,Utilities,Checkings,Water at Schultz-Fleming
+2025-04-30,505.44,Groceries,Food,Credit Card,Groceries at Gonzalez-Conrad
+2025-03-12,917.47,Events,Entertainment,Checkings,Events at Brown-Mcknight
+2025-01-18,61.64,Pharmacy,Health,Cash,Pharmacy at George LLC
+2025-02-11,289.7,Movies,Entertainment,Cash,Movies at Porter PLC
+2024-11-12,255.69,Groceries,Food,Cash,Groceries at Bradshaw-Graves
+2025-06-09,356.81,Cafes,Food,Credit Card,"Cafes at Gardner, Spears and Alexander"
+2024-11-07,158.03,Games,Entertainment,Savings,Games at Coleman-Bright
+2024-10-20,552.34,Clothes,Shopping,Checkings,Clothes at Butler PLC
+2025-04-18,909.34,Internet,Utilities,Credit Card,"Internet at Massey, Williams and Crosby"
+2025-05-19,564.41,Parking,Transport,Credit Card,"Parking at Thompson, Valenzuela and Webster"
+2025-01-05,901.09,Streaming,Entertainment,Cash,Streaming at Bryant Ltd
+2025-02-11,403.95,Events,Entertainment,Credit Card,"Events at Parker, Miller and Preston"
+2025-02-02,881.07,Games,Entertainment,Checkings,Games at Arnold Ltd
+2025-01-21,712.81,Taxi,Transport,Credit Card,Taxi at Tate Inc
+2025-02-01,312.62,Restaurants,Food,Credit Card,Restaurants at Singleton-Barnes
+2024-11-13,25.84,Movies,Entertainment,Checkings,Movies at Hancock-Peters
+2025-07-14,118.03,Electronics,Shopping,Savings,Electronics at Mullen-Perez
+2024-11-24,338.8,Public Transport,Transport,Credit Card,Public Transport at Mullins-Miller
+2025-01-25,997.08,Pharmacy,Health,Credit Card,Pharmacy at Roberts Inc
+2024-08-13,153.68,Restaurants,Food,Savings,Restaurants at Jones-Madden
+2025-04-26,217.56,Electronics,Shopping,Credit Card,Electronics at Odom and Sons
+2024-09-30,571.19,Electronics,Shopping,Credit Card,Electronics at Barker Ltd
+2025-04-04,648.92,Snacks,Food,Checkings,Snacks at Brooks Inc
+2025-02-11,400.33,Fuel,Transport,Savings,Fuel at Choi PLC
+2025-05-03,448.64,Fuel,Transport,Cash,"Fuel at Bentley, Mcgee and Gill"
+2025-05-21,343.63,Games,Entertainment,Credit Card,Games at Perez-Romero
+2024-10-09,231.45,Gas,Utilities,Savings,"Gas at Turner, Dunn and Stewart"
+2024-09-26,513.29,Water,Utilities,Savings,"Water at Gonzalez, Davidson and Oneal"
+2024-11-26,887.83,Books,Shopping,Cash,Books at Harris Inc
+2025-01-26,483.07,Pharmacy,Health,Savings,"Pharmacy at West, Carlson and Hernandez"
+2024-12-16,527.1,Streaming,Entertainment,Cash,"Streaming at Black, Gonzalez and Oconnell"
+2024-09-13,785.21,Internet,Utilities,Checkings,Internet at Coleman-Allison
+2024-09-29,532.64,Groceries,Food,Credit Card,"Groceries at Johnson, Hodge and Cunningham"
+2025-04-05,384.39,Movies,Entertainment,Cash,"Movies at Avila, Sanchez and Rhodes"
+2025-06-15,105.98,Cafes,Food,Checkings,"Cafes at Ware, Ingram and Garcia"
+2024-09-11,649.63,Events,Entertainment,Credit Card,"Events at James, Wright and Adams"
+2025-03-14,761.68,Fuel,Transport,Credit Card,Fuel at Johnson PLC
+2025-07-11,436.5,Internet,Utilities,Checkings,Internet at Lawson Group
+2024-07-30,249.39,Movies,Entertainment,Credit Card,Movies at Mitchell PLC
+2025-01-06,442.57,Public Transport,Transport,Cash,Public Transport at York and Sons
+2025-07-02,214.56,Cafes,Food,Credit Card,Cafes at Lewis-Powell
+2025-01-25,660.39,Cafes,Food,Credit Card,Cafes at Jensen-Delgado
+2025-05-10,405.86,Cafes,Food,Credit Card,Cafes at Curry-Miller
+2025-01-03,578.95,Books,Shopping,Cash,Books at Wilson-Macdonald
+2025-04-03,260.52,Events,Entertainment,Checkings,"Events at Williams, Mcintyre and Adams"
+2025-06-16,766.92,Clothes,Shopping,Savings,"Clothes at Williams, Campos and Adkins"
+2024-12-19,627.27,Insurance,Health,Checkings,Insurance at Hall LLC
+2024-07-23,395.22,Books,Shopping,Credit Card,Books at Patel and Sons
+2025-02-04,924.22,Parking,Transport,Credit Card,Parking at Hubbard-Salas
+2024-08-29,984.16,Clothes,Shopping,Savings,"Clothes at Rice, Dodson and Stout"
+2025-01-19,570.5,Streaming,Entertainment,Checkings,Streaming at Nelson Ltd
+2024-07-28,190.01,Fuel,Transport,Cash,"Fuel at Harrison, Brown and Butler"
+2025-04-29,990.27,Cafes,Food,Credit Card,"Cafes at Anderson, Evans and Murphy"
+2024-08-14,694.37,Snacks,Food,Credit Card,Snacks at Morrison and Sons
+2025-06-21,336.77,Doctor,Health,Credit Card,"Doctor at Perez, Hart and Ingram"
+2025-07-16,612.8,Movies,Entertainment,Credit Card,"Movies at Larsen, Roberts and Young"
+2025-06-01,394.76,Gas,Utilities,Cash,Gas at Wells-Blake
+2025-02-01,109.63,Movies,Entertainment,Savings,Movies at Howard-Boyd
+2025-04-28,688.55,Doctor,Health,Credit Card,"Doctor at Olson, Green and Orozco"
+2025-04-26,951.02,Electronics,Shopping,Cash,"Electronics at Brown, Harrison and Garcia"
+2024-10-14,221.84,Groceries,Food,Checkings,Groceries at Jimenez Group
+2024-08-26,621.13,Streaming,Entertainment,Cash,Streaming at Wilson-Harris
+2025-03-14,424.35,Snacks,Food,Savings,Snacks at Larson-Everett
+2025-06-17,260.3,Doctor,Health,Credit Card,Doctor at Mccormick-Jones
+2025-07-11,257.73,Cafes,Food,Credit Card,"Cafes at Jones, Ritter and Porter"
+2024-12-02,583.5,Doctor,Health,Credit Card,"Doctor at Valentine, Johnson and Perez"
+2025-02-07,504.53,Restaurants,Food,Checkings,Restaurants at Mendoza-Rodriguez
+2024-12-27,998.55,Internet,Utilities,Checkings,Internet at Anderson and Sons
+2024-08-21,180.79,Groceries,Food,Checkings,Groceries at Hernandez-Hogan
+2025-07-12,230.45,Public Transport,Transport,Credit Card,Public Transport at Rogers LLC
+2025-03-15,979.78,Clothes,Shopping,Checkings,"Clothes at Nguyen, Smith and Mclean"
+2024-10-04,867.37,Pharmacy,Health,Credit Card,Pharmacy at Campbell PLC
+2025-03-16,210.98,Pharmacy,Health,Savings,Pharmacy at Davis LLC
+2024-08-08,577.34,Streaming,Entertainment,Checkings,Streaming at Hamilton-Oneal
+2025-06-05,674.8,Water,Utilities,Savings,Water at Anderson-Scott
+2025-01-27,720.37,Events,Entertainment,Savings,"Events at Ramirez, Rice and Peterson"
+2025-03-25,523.85,Events,Entertainment,Credit Card,"Events at Young, White and Howard"
+2024-12-31,727.15,Fuel,Transport,Savings,"Fuel at Parker, Carr and Gutierrez"
+2025-07-03,305.48,Restaurants,Food,Checkings,"Restaurants at Velasquez, Becker and Harvey"
+2024-07-31,368.69,Movies,Entertainment,Savings,Movies at Ramirez LLC
+2024-11-18,511.21,Furniture,Shopping,Checkings,Furniture at Bailey Group
+2025-05-18,458.63,Electronics,Shopping,Savings,"Electronics at Young, James and Hill"
+2025-04-27,793.29,Doctor,Health,Checkings,Doctor at Watts and Sons
+2025-01-02,708.83,Water,Utilities,Cash,"Water at Maddox, Chang and Cook"
+2025-06-18,962.22,Restaurants,Food,Checkings,Restaurants at Moore Group
+2025-06-28,722.36,Movies,Entertainment,Checkings,Movies at King Group
+2025-06-25,763.77,Electricity,Utilities,Cash,"Electricity at Crawford, Wong and Spencer"
+2025-01-20,866.68,Restaurants,Food,Cash,"Restaurants at Ramirez, Johnson and Roberts"
+2024-08-18,455.4,Gym,Health,Credit Card,Gym at Freeman-Freeman
+2025-04-29,661.99,Gas,Utilities,Checkings,"Gas at Beck, Page and Rowland"
+2024-11-20,548.82,Snacks,Food,Savings,Snacks at Edwards-Brown
+2025-02-05,855.87,Pharmacy,Health,Credit Card,Pharmacy at Davis-Glover
+2025-03-26,845.16,Events,Entertainment,Cash,Events at Schneider-Lee
+2025-03-13,52.24,Events,Entertainment,Credit Card,"Events at Taylor, Delacruz and Mcclure"
+2024-09-21,133.91,Streaming,Entertainment,Cash,Streaming at Ellis and Sons
+2025-04-27,891.9,Games,Entertainment,Cash,"Games at Moore, Stevens and Reynolds"
+2025-05-04,224.43,Restaurants,Food,Cash,"Restaurants at Mills, Kelly and Jones"
+2024-10-17,901.32,Snacks,Food,Credit Card,Snacks at Hall Ltd
+2025-07-09,846.21,Taxi,Transport,Credit Card,Taxi at Sanders LLC
+2024-12-25,58.47,Restaurants,Food,Cash,Restaurants at Stewart Group
+2024-12-01,677.35,Public Transport,Transport,Credit Card,Public Transport at Tucker-Sanchez
+2025-04-03,278.65,Cafes,Food,Savings,Cafes at Hall PLC
+2024-11-10,115.78,Doctor,Health,Checkings,Doctor at Dean-Richardson
+2024-08-17,852.09,Water,Utilities,Checkings,Water at Jenkins-Lewis
+2024-07-21,44.99,Furniture,Shopping,Savings,Furniture at Hale Inc
+2025-04-16,99.75,Cafes,Food,Checkings,Cafes at Jackson Group
+2024-07-27,733.77,Gym,Health,Checkings,Gym at Jones Inc
+2024-11-19,643.84,Groceries,Food,Savings,"Groceries at Houston, Garcia and Mckenzie"
+2024-11-15,219.01,Water,Utilities,Checkings,Water at Tran LLC
+2025-07-04,429.65,Games,Entertainment,Cash,"Games at Patton, Ford and Glass"
+2025-06-02,144.34,Restaurants,Food,Checkings,"Restaurants at Miller, Holloway and Edwards"
+2025-07-04,603.15,Electronics,Shopping,Cash,Electronics at Gallegos LLC
+2024-12-18,422.41,Restaurants,Food,Cash,Restaurants at Myers and Sons
+2025-03-26,309.47,Gas,Utilities,Checkings,Gas at Barnes Group
+2025-01-27,176.85,Electronics,Shopping,Credit Card,Electronics at Wheeler-Schroeder
+2024-09-13,956.83,Electricity,Utilities,Savings,Electricity at Walters and Sons
+2024-12-09,801.47,Insurance,Health,Savings,Insurance at Nichols Group
+2024-12-17,809.99,Taxi,Transport,Cash,"Taxi at Rocha, Jackson and Mccoy"
+2025-01-14,246.24,Taxi,Transport,Checkings,Taxi at Smith Inc
+2024-09-04,487.8,Furniture,Shopping,Checkings,Furniture at Chan-Bell
+2024-08-23,977.74,Events,Entertainment,Cash,"Events at Hutchinson, Arroyo and Lane"
+2025-05-19,118.08,Gas,Utilities,Cash,"Gas at Davis, Sanders and Briggs"
+2024-08-21,86.15,Parking,Transport,Savings,Parking at Hernandez-Stone
+2024-11-09,648.49,Pharmacy,Health,Cash,Pharmacy at Ruiz Inc
+2024-10-01,350.69,Parking,Transport,Savings,Parking at Escobar Ltd
+2025-06-28,901.3,Movies,Entertainment,Savings,Movies at Carter-Sanchez
+2024-12-22,654.13,Books,Shopping,Checkings,"Books at Hayes, Stark and Austin"
+2024-12-21,637.08,Internet,Utilities,Credit Card,"Internet at Myers, Soto and Smith"
+2024-12-10,387.52,Snacks,Food,Credit Card,"Snacks at Adams, Delacruz and Roberts"
+2025-06-02,333.7,Gas,Utilities,Credit Card,"Gas at Bush, Diaz and Evans"
+2024-11-29,682.8,Taxi,Transport,Credit Card,"Taxi at Ward, Gonzales and Lowery"
+2025-03-02,121.41,Pharmacy,Health,Checkings,Pharmacy at Riley Ltd
+2024-09-16,900.32,Furniture,Shopping,Cash,Furniture at Clayton LLC
+2024-09-21,732.19,Furniture,Shopping,Savings,"Furniture at Lawrence, Brown and Herrera"
+2024-10-27,511.45,Books,Shopping,Credit Card,Books at Guerrero Inc
+2025-01-22,234.04,Gas,Utilities,Cash,"Gas at Morgan, Mueller and Parsons"
+2025-05-10,341.63,Games,Entertainment,Credit Card,Games at Rivera Group
+2024-08-06,195.88,Water,Utilities,Checkings,Water at Mendoza-Peterson
+2025-03-08,344.81,Parking,Transport,Checkings,Parking at Brown-Odonnell
+2025-06-01,384.91,Groceries,Food,Savings,"Groceries at Heath, Sellers and Pittman"
+2024-09-20,665.95,Gym,Health,Savings,Gym at Day-Henry
+2024-09-04,375.91,Snacks,Food,Credit Card,"Snacks at Mcclure, Shea and Brown"
+2024-10-15,83.25,Cafes,Food,Checkings,"Cafes at Clark, Burns and Roberts"
+2024-09-29,868.13,Gas,Utilities,Cash,"Gas at Wolfe, Tyler and Matthews"
+2025-04-14,328.1,Electricity,Utilities,Savings,"Electricity at Parker, Mckee and Mullins"
+2025-04-04,203.23,Doctor,Health,Cash,Doctor at Gilbert-Terrell
+2024-09-26,395.67,Groceries,Food,Checkings,Groceries at Daniels-Gonzalez
+2024-08-19,324.91,Water,Utilities,Checkings,Water at Jones and Sons
+2024-11-03,161.94,Snacks,Food,Savings,Snacks at Adams-Baldwin
+2024-08-27,461.8,Electricity,Utilities,Checkings,Electricity at Wright-Williams
+2024-08-08,175.16,Restaurants,Food,Cash,Restaurants at Mills-Brown
+2025-02-06,427.15,Games,Entertainment,Credit Card,Games at Mcdaniel PLC
+2025-03-09,680.67,Doctor,Health,Checkings,Doctor at Gibbs-Baker
+2024-09-25,902.68,Streaming,Entertainment,Checkings,"Streaming at Baker, Diaz and Salinas"
+2025-07-15,659.01,Insurance,Health,Checkings,"Insurance at Gonzalez, Berry and Johnson"
+2024-10-09,492.13,Electronics,Shopping,Checkings,Electronics at Yu-Browning
+2024-11-15,382.98,Groceries,Food,Credit Card,Groceries at Evans LLC
+2024-07-30,431.31,Pharmacy,Health,Cash,Pharmacy at Bauer PLC
+2024-12-20,567.89,Books,Shopping,Cash,"Books at Allen, Stevens and Melton"
+2025-06-25,325.42,Gym,Health,Cash,Gym at Todd Ltd
+2025-02-27,439.4,Internet,Utilities,Credit Card,Internet at Martinez-Price
+2025-03-09,254.48,Electronics,Shopping,Checkings,Electronics at James Ltd
+2024-11-10,306.28,Insurance,Health,Checkings,Insurance at Andrews LLC
+2025-03-27,37.58,Insurance,Health,Savings,Insurance at Torres LLC
+2025-04-14,727.26,Groceries,Food,Cash,"Groceries at White, Bentley and Garcia"
+2025-07-11,594.18,Streaming,Entertainment,Credit Card,"Streaming at Taylor, Fowler and Massey"
+2025-05-27,456.82,Cafes,Food,Credit Card,Cafes at Clark-Pham
+2025-07-02,329.99,Insurance,Health,Cash,"Insurance at Bailey, Sellers and Ellis"
+2025-06-19,50.61,Electronics,Shopping,Cash,"Electronics at Martinez, Bowen and Herring"
+2025-05-27,145.49,Electronics,Shopping,Checkings,Electronics at Zuniga-Boone
+2024-09-10,266.54,Electronics,Shopping,Checkings,"Electronics at Singh, Dyer and Li"
+2024-11-07,397.43,Cafes,Food,Savings,Cafes at Clark Inc
+2025-07-16,599.05,Fuel,Transport,Credit Card,"Fuel at Reese, Adkins and Morgan"
+2024-10-31,600.07,Cafes,Food,Credit Card,"Cafes at Ray, Beck and Stein"
+2024-08-23,804.73,Electronics,Shopping,Cash,Electronics at Mendoza-Christensen
+2025-02-19,550.64,Gym,Health,Checkings,Gym at Ellis Group
+2024-11-01,278.0,Fuel,Transport,Cash,Fuel at Rowe-Smith
+2024-11-15,326.08,Electronics,Shopping,Credit Card,Electronics at Butler-Newman
+2025-07-11,938.63,Doctor,Health,Credit Card,Doctor at Mills Inc
+2025-02-13,868.98,Books,Shopping,Checkings,"Books at Gutierrez, Tapia and Newman"
+2024-12-05,896.37,Groceries,Food,Cash,Groceries at Rose and Sons
+2025-02-16,956.41,Groceries,Food,Cash,Groceries at Powell-Mccarthy
+2024-12-18,54.72,Gym,Health,Savings,Gym at Ortega PLC
+2025-04-28,434.67,Electricity,Utilities,Credit Card,Electricity at Vaughan-Gonzalez
+2025-07-14,560.49,Restaurants,Food,Cash,Restaurants at Jackson PLC
+2025-01-16,825.03,Furniture,Shopping,Savings,Furniture at Lopez Ltd
+2024-10-06,805.36,Parking,Transport,Checkings,Parking at Davis Inc
+2024-10-20,814.38,Furniture,Shopping,Cash,Furniture at Johnson LLC
+2025-06-20,196.85,Fuel,Transport,Credit Card,Fuel at Sims Ltd
+2025-04-04,803.18,Events,Entertainment,Credit Card,Events at Hubbard PLC
+2024-12-07,724.93,Taxi,Transport,Credit Card,Taxi at Nguyen Inc
+2025-04-22,98.36,Cafes,Food,Checkings,Cafes at Moreno-Lawson
+2024-09-08,143.05,Parking,Transport,Checkings,"Parking at Lopez, Nguyen and Collins"
+2025-05-12,11.19,Insurance,Health,Cash,"Insurance at Cruz, Cain and Johnson"
+2025-01-12,745.21,Snacks,Food,Credit Card,Snacks at Riley-Singh
+2024-07-20,817.9,Internet,Utilities,Checkings,"Internet at Wise, Perez and Ashley"
+2024-09-17,38.49,Clothes,Shopping,Credit Card,"Clothes at Gibson, Erickson and Caldwell"
+2024-11-09,434.37,Clothes,Shopping,Savings,Clothes at Chen-Nelson
+2025-01-17,469.21,Insurance,Health,Savings,"Insurance at Murray, Reynolds and Brown"
+2024-09-04,207.61,Games,Entertainment,Cash,Games at White Group
+2024-10-20,507.68,Taxi,Transport,Savings,Taxi at Bowman and Sons
+2025-01-31,250.66,Electricity,Utilities,Checkings,Electricity at Walters Inc
+2024-08-12,76.45,Cafes,Food,Checkings,"Cafes at Schneider, Miller and Perez"
+2025-06-11,287.8,Cafes,Food,Savings,Cafes at Murphy LLC
+2025-04-25,109.76,Electricity,Utilities,Checkings,Electricity at Sims LLC
+2025-03-04,472.78,Fuel,Transport,Credit Card,Fuel at Moran-Hobbs
+2024-08-19,206.46,Pharmacy,Health,Checkings,Pharmacy at Pham Group
+2024-12-15,154.42,Cafes,Food,Credit Card,Cafes at Sanders Ltd
+2024-08-02,893.5,Electronics,Shopping,Checkings,Electronics at Patterson-Bowers
+2025-05-19,769.85,Doctor,Health,Cash,"Doctor at Moore, Williams and Perez"
+2025-05-27,958.04,Doctor,Health,Credit Card,Doctor at Medina-Garcia
+2024-11-25,512.21,Furniture,Shopping,Checkings,"Furniture at Simmons, Harrington and Williams"
+2024-09-24,20.39,Internet,Utilities,Credit Card,"Internet at Rush, Frye and Ayala"
+2024-10-27,459.68,Movies,Entertainment,Checkings,Movies at Cruz-Pennington
+2025-03-29,696.99,Parking,Transport,Cash,Parking at Johnson PLC
+2025-02-08,19.58,Electronics,Shopping,Credit Card,"Electronics at Hartman, Hunter and Brady"
+2025-05-18,612.0,Fuel,Transport,Savings,Fuel at Williams-Kelly
+2024-11-08,973.43,Gas,Utilities,Savings,"Gas at Wilson, Cowan and Patterson"
+2024-08-09,308.89,Gas,Utilities,Cash,Gas at Castillo-Smith
+2025-06-26,560.66,Water,Utilities,Savings,Water at Lawson-Waters
+2025-02-15,963.81,Events,Entertainment,Savings,Events at Thompson Ltd
+2024-09-12,773.91,Electricity,Utilities,Cash,"Electricity at Brown, Howard and Randall"
+2025-01-05,868.7,Streaming,Entertainment,Checkings,"Streaming at Dixon, Murray and Washington"
+2024-09-27,492.91,Fuel,Transport,Cash,Fuel at Meyers Group
+2025-03-13,174.64,Insurance,Health,Credit Card,"Insurance at Coffey, Sanchez and Hughes"
+2025-06-29,560.69,Movies,Entertainment,Credit Card,Movies at Bird-Pearson
+2025-03-02,235.64,Public Transport,Transport,Cash,Public Transport at House LLC
+2025-05-25,56.32,Streaming,Entertainment,Checkings,Streaming at Ramirez Group
+2025-05-31,749.72,Taxi,Transport,Savings,"Taxi at Johnson, Pham and Martinez"
+2024-09-11,713.17,Snacks,Food,Checkings,Snacks at Love-Hernandez
+2025-04-30,488.58,Groceries,Food,Cash,Groceries at Ellis-Shannon
+2025-06-11,984.52,Internet,Utilities,Checkings,"Internet at Schmidt, Gutierrez and Smith"
+2025-04-15,114.86,Clothes,Shopping,Checkings,Clothes at Medina-Schmidt
+2025-03-17,689.6,Movies,Entertainment,Savings,"Movies at Cole, Manning and Wall"
+2025-02-22,36.68,Gas,Utilities,Cash,Gas at Taylor LLC
+2025-06-01,189.0,Insurance,Health,Savings,Insurance at Young Ltd
+2024-11-08,294.64,Games,Entertainment,Savings,Games at Bryant-Bray
+2024-12-08,430.15,Internet,Utilities,Cash,Internet at Richards Group
+2025-07-07,214.07,Pharmacy,Health,Checkings,Pharmacy at Hoffman-Jones
+2025-04-18,211.87,Clothes,Shopping,Credit Card,"Clothes at Johnson, Martin and Anthony"
+2025-03-13,56.67,Doctor,Health,Checkings,Doctor at Mills Group
+2025-04-08,845.62,Water,Utilities,Savings,"Water at Roberts, Hernandez and Jackson"
+2024-09-04,965.76,Groceries,Food,Credit Card,"Groceries at Aguirre, Alexander and Dunn"
+2025-05-20,247.89,Electricity,Utilities,Savings,Electricity at Manning-Garcia
+2024-08-05,959.91,Games,Entertainment,Checkings,"Games at Chang, Lara and Jones"
+2025-01-05,824.07,Cafes,Food,Savings,Cafes at Brown Ltd
+2025-05-09,966.25,Taxi,Transport,Cash,Taxi at May-Robertson
+2025-03-30,121.39,Streaming,Entertainment,Savings,Streaming at Moore LLC
+2024-12-14,827.9,Streaming,Entertainment,Savings,Streaming at Smith-Chavez
+2024-10-22,510.73,Movies,Entertainment,Credit Card,Movies at Young-Moss
+2025-07-11,113.14,Events,Entertainment,Cash,Events at Burton Ltd
+2025-06-25,240.92,Movies,Entertainment,Cash,Movies at Robertson-Castillo
+2024-08-29,380.59,Electricity,Utilities,Checkings,Electricity at Green-Moran
+2024-10-10,518.58,Gym,Health,Savings,Gym at Clayton LLC
+2024-10-04,869.36,Internet,Utilities,Savings,Internet at Wright-Contreras
+2024-08-07,741.08,Parking,Transport,Cash,Parking at Bishop-Bennett
+2025-03-18,568.83,Gas,Utilities,Savings,Gas at Castillo-Perez
+2024-10-24,180.55,Internet,Utilities,Credit Card,Internet at Fritz Group
+2025-04-03,388.57,Water,Utilities,Savings,Water at Odom Group
+2025-01-20,291.15,Books,Shopping,Cash,Books at Pratt-Clark
+2025-01-09,238.64,Taxi,Transport,Checkings,"Taxi at Weaver, Stewart and Carlson"
+2024-09-03,422.71,Movies,Entertainment,Checkings,Movies at Thompson LLC
+2025-02-12,366.98,Restaurants,Food,Savings,Restaurants at Long-Clay
+2025-04-16,586.39,Streaming,Entertainment,Credit Card,"Streaming at Logan, Acosta and Walker"
+2025-07-14,841.9,Insurance,Health,Credit Card,"Insurance at Carter, Jackson and Jones"
+2024-12-16,490.76,Movies,Entertainment,Credit Card,"Movies at Weiss, Walters and Martin"
+2025-06-19,418.56,Gas,Utilities,Cash,Gas at Ramirez Group
+2025-06-05,245.07,Parking,Transport,Savings,Parking at Butler-Edwards
+2025-03-20,985.44,Pharmacy,Health,Checkings,Pharmacy at Johnson Group
+2025-06-07,748.25,Taxi,Transport,Checkings,Taxi at Hawkins LLC
+2025-04-12,893.01,Movies,Entertainment,Checkings,"Movies at Moran, Buck and Young"
+2024-09-22,787.99,Fuel,Transport,Credit Card,Fuel at Lee Ltd
+2024-10-27,877.32,Doctor,Health,Checkings,"Doctor at Vargas, Miranda and Harris"
+2025-02-10,635.13,Groceries,Food,Credit Card,Groceries at Black and Sons
+2024-09-05,201.0,Public Transport,Transport,Savings,Public Transport at Willis LLC
+2024-09-15,938.22,Fuel,Transport,Credit Card,Fuel at Deleon-Martinez
+2025-04-22,615.13,Groceries,Food,Savings,Groceries at Powell-Richmond
+2025-02-03,669.65,Taxi,Transport,Credit Card,"Taxi at Boyer, Cox and Reed"
+2025-05-11,339.36,Internet,Utilities,Checkings,Internet at Mann-Wilson
+2024-10-22,888.55,Water,Utilities,Checkings,Water at Diaz-Campbell
+2024-11-14,762.05,Furniture,Shopping,Savings,"Furniture at Mejia, Moody and Schneider"
+2024-09-25,462.53,Internet,Utilities,Credit Card,Internet at Wilkerson-Peterson
+2025-04-13,515.44,Internet,Utilities,Checkings,Internet at Brown LLC
+2024-11-24,607.97,Streaming,Entertainment,Checkings,Streaming at Kelly LLC
+2024-12-20,781.13,Cafes,Food,Checkings,Cafes at Simpson-Ware
+2025-03-23,906.96,Fuel,Transport,Cash,Fuel at Scott-Sanchez
+2025-01-22,857.75,Games,Entertainment,Savings,Games at Johnson-Haas
+2025-02-26,842.34,Doctor,Health,Checkings,"Doctor at Harvey, Thompson and Bishop"
+2024-10-18,507.75,Doctor,Health,Credit Card,"Doctor at Miller, Collins and Holloway"
+2024-08-20,995.51,Water,Utilities,Checkings,Water at Hicks Ltd
+2024-09-04,350.61,Fuel,Transport,Savings,Fuel at Fuller Ltd
+2025-06-26,551.83,Streaming,Entertainment,Cash,"Streaming at Johnson, Baird and Boyd"
+2024-11-25,642.62,Groceries,Food,Checkings,Groceries at Weber-Spencer
+2025-02-18,873.66,Insurance,Health,Checkings,Insurance at Davenport Group
+2025-03-15,155.3,Gym,Health,Credit Card,Gym at Watkins-Mejia
+2024-10-08,325.89,Water,Utilities,Cash,"Water at Stewart, Frey and Bauer"
+2024-12-02,654.14,Games,Entertainment,Checkings,"Games at Carlson, Love and Gentry"
+2024-10-30,501.33,Streaming,Entertainment,Cash,Streaming at Miller Group
+2024-10-04,744.75,Restaurants,Food,Savings,Restaurants at Stephenson-Andersen
+2024-10-30,115.65,Furniture,Shopping,Checkings,"Furniture at Andersen, Hall and Jordan"
+2025-03-09,865.88,Restaurants,Food,Cash,Restaurants at Church-Cox
+2025-01-01,536.87,Gas,Utilities,Checkings,Gas at Wallace LLC
+2024-10-02,289.58,Books,Shopping,Checkings,"Books at Heath, Decker and Sanchez"
+2025-07-19,58.34,Groceries,Food,Cash,"Groceries at Jones, Williams and Lang"
+2025-05-11,69.02,Furniture,Shopping,Savings,Furniture at Duran Ltd
+2025-03-01,690.65,Snacks,Food,Savings,Snacks at Walters Group
+2025-01-03,719.0,Gym,Health,Credit Card,"Gym at Fischer, Jones and Brown"
+2025-04-04,661.34,Electricity,Utilities,Savings,Electricity at Taylor Ltd
+2025-05-01,369.12,Water,Utilities,Cash,"Water at West, Santos and Perez"
+2025-03-15,339.81,Gym,Health,Checkings,Gym at Wilson-Barnes
+2024-11-16,659.67,Electricity,Utilities,Credit Card,"Electricity at Jones, Wong and Lewis"
+2024-10-03,607.17,Taxi,Transport,Checkings,Taxi at Brown-Williams
+2024-10-02,757.1,Books,Shopping,Cash,Books at Phelps-Vazquez
+2025-03-22,945.9,Books,Shopping,Credit Card,"Books at Smith, Spencer and Kramer"
+2024-08-16,563.45,Insurance,Health,Checkings,"Insurance at Huerta, Williams and Peters"
+2024-10-21,804.54,Gym,Health,Savings,"Gym at Gray, Chavez and Davies"
+2024-08-03,318.31,Public Transport,Transport,Checkings,Public Transport at Jimenez-Warren
+2025-06-28,211.49,Parking,Transport,Checkings,"Parking at Moss, Murphy and Moore"
+2025-07-09,862.18,Movies,Entertainment,Savings,Movies at Brooks Ltd
+2024-12-03,676.0,Gas,Utilities,Checkings,Gas at Jones-Cooper
+2024-09-05,519.66,Electricity,Utilities,Checkings,"Electricity at Woodard, Sanchez and Bird"
+2025-02-07,637.58,Groceries,Food,Savings,"Groceries at Adams, Rivas and Wilson"
+2025-03-31,264.99,Clothes,Shopping,Cash,"Clothes at Clark, Johnston and Williams"
+2025-01-08,430.53,Cafes,Food,Checkings,Cafes at Brown Group
+2025-05-24,337.3,Cafes,Food,Checkings,"Cafes at Yang, Armstrong and Robinson"
+2025-01-10,154.78,Insurance,Health,Cash,"Insurance at Cochran, Bonilla and Yang"
+2025-06-25,901.86,Electricity,Utilities,Credit Card,Electricity at Howard Group
+2025-06-03,190.99,Internet,Utilities,Savings,Internet at Guerrero-Thomas
+2024-08-02,686.56,Parking,Transport,Savings,Parking at Merritt LLC
+2025-06-10,539.46,Groceries,Food,Cash,"Groceries at Stanley, Anderson and Gomez"
+2025-02-01,162.47,Fuel,Transport,Savings,Fuel at Suarez Ltd
+2024-08-12,733.75,Public Transport,Transport,Cash,Public Transport at Ferguson-Miller
+2024-09-09,910.32,Electricity,Utilities,Cash,"Electricity at Alvarez, Carr and Adams"
+2024-09-18,78.24,Restaurants,Food,Cash,"Restaurants at Fields, Adams and Palmer"
+2024-12-04,813.73,Cafes,Food,Checkings,Cafes at Crosby-Bailey
+2025-01-09,985.94,Restaurants,Food,Checkings,Restaurants at Rodgers PLC
+2024-08-07,274.82,Furniture,Shopping,Credit Card,"Furniture at Alvarez, Stone and Floyd"
+2025-06-16,369.88,Electronics,Shopping,Savings,Electronics at Wade-Taylor
+2024-11-17,665.94,Taxi,Transport,Credit Card,"Taxi at Bell, Martinez and Miller"
+2025-01-08,406.19,Snacks,Food,Cash,Snacks at Jacobson-Green
+2024-09-23,805.55,Electricity,Utilities,Cash,Electricity at Wade-Lowe
+2024-08-22,132.93,Books,Shopping,Credit Card,Books at Rubio LLC
+2024-11-23,707.57,Water,Utilities,Checkings,Water at Rogers and Sons
+2025-07-13,747.33,Gym,Health,Credit Card,Gym at Harris PLC
+2024-10-09,225.55,Pharmacy,Health,Credit Card,Pharmacy at Kirk-Stevens
+2024-10-13,681.02,Gas,Utilities,Cash,"Gas at Goodman, Harrison and Beltran"
+2024-10-23,969.23,Public Transport,Transport,Cash,Public Transport at Patterson Ltd
+2025-01-13,530.82,Streaming,Entertainment,Savings,"Streaming at Riley, Montes and Gomez"
+2024-11-02,828.0,Movies,Entertainment,Credit Card,Movies at Turner PLC
+2024-11-07,480.23,Internet,Utilities,Credit Card,"Internet at Manning, Flores and Mahoney"
+2025-02-01,267.02,Doctor,Health,Cash,Doctor at Glenn LLC
+2025-01-02,86.26,Gas,Utilities,Cash,"Gas at Lee, Taylor and Freeman"
+2024-11-05,22.24,Public Transport,Transport,Checkings,Public Transport at Giles LLC
+2024-11-26,455.52,Internet,Utilities,Credit Card,"Internet at Shelton, Cole and Cooley"
+2025-05-07,207.23,Clothes,Shopping,Credit Card,"Clothes at Deleon, Bolton and Roth"
+2024-09-04,331.1,Electricity,Utilities,Cash,Electricity at Hampton Group
+2024-09-11,346.65,Fuel,Transport,Credit Card,Fuel at Winters-Cain
+2024-12-27,739.59,Water,Utilities,Checkings,Water at Jacobson and Sons
+2024-12-29,600.67,Cafes,Food,Savings,"Cafes at Wheeler, Bishop and Robles"
+2024-08-09,332.65,Snacks,Food,Savings,"Snacks at Bennett, Mahoney and Anderson"
+2024-11-12,802.65,Parking,Transport,Checkings,Parking at Torres Inc
+2024-08-11,605.18,Cafes,Food,Checkings,Cafes at Hoffman-Wu
+2025-02-18,559.37,Gas,Utilities,Cash,Gas at Williams-Roberts
+2024-07-30,749.45,Electricity,Utilities,Savings,Electricity at Smith Ltd
+2025-02-18,760.06,Pharmacy,Health,Checkings,Pharmacy at Nichols-Watts
+2025-02-20,293.45,Taxi,Transport,Savings,Taxi at Shepherd-Walker
+2024-08-12,132.7,Insurance,Health,Checkings,Insurance at Mcmillan-Cooper
+2024-09-22,918.17,Cafes,Food,Credit Card,Cafes at Johnson-Adams
+2025-03-16,432.18,Games,Entertainment,Credit Card,Games at Nielsen-Pope
+2025-06-04,262.21,Pharmacy,Health,Checkings,"Pharmacy at Beck, Gray and Williams"
+2024-12-24,605.97,Taxi,Transport,Cash,Taxi at Maxwell-Hurst
+2024-10-02,985.16,Streaming,Entertainment,Cash,Streaming at Taylor LLC
+2025-04-12,584.83,Pharmacy,Health,Credit Card,Pharmacy at Walton-Smith
+2025-06-08,865.71,Furniture,Shopping,Savings,Furniture at Fernandez-Moon
+2024-10-16,62.48,Internet,Utilities,Checkings,Internet at Nguyen-Valentine
+2024-10-19,838.78,Pharmacy,Health,Checkings,"Pharmacy at Bolton, Floyd and Long"
+2024-10-28,363.16,Water,Utilities,Checkings,Water at Jackson-Grant
+2024-09-23,957.44,Cafes,Food,Checkings,Cafes at Taylor-Peterson
+2024-08-04,792.36,Restaurants,Food,Cash,Restaurants at Jenkins-Chavez
+2024-08-19,971.13,Games,Entertainment,Savings,Games at Jimenez-Adams
+2025-02-14,524.63,Games,Entertainment,Credit Card,"Games at Ramos, Cain and Morales"
+2024-09-23,921.16,Electronics,Shopping,Cash,Electronics at Jackson PLC
+2025-07-19,591.3,Furniture,Shopping,Checkings,"Furniture at Rodriguez, Costa and Hodges"
+2024-08-04,510.08,Streaming,Entertainment,Checkings,Streaming at Alexander-Massey
+2025-04-08,851.34,Gas,Utilities,Savings,Gas at Ochoa LLC
+2025-07-13,400.64,Water,Utilities,Savings,Water at Williams-Franco
+2025-04-17,509.9,Doctor,Health,Credit Card,"Doctor at Fernandez, Smith and Proctor"
+2024-07-30,445.73,Games,Entertainment,Savings,"Games at Douglas, Pruitt and Pearson"
+2024-11-19,934.01,Books,Shopping,Checkings,"Books at Hale, Martin and Johnson"
+2025-06-04,415.77,Books,Shopping,Checkings,Books at Snyder Group
+2024-11-25,168.18,Gym,Health,Checkings,Gym at Thomas-Whitaker
+2024-09-24,403.75,Gas,Utilities,Checkings,Gas at Tanner-Rose
+2025-02-28,302.39,Events,Entertainment,Checkings,"Events at Hernandez, Casey and Hughes"
+2024-12-24,787.51,Pharmacy,Health,Savings,"Pharmacy at Miller, Ingram and Cameron"
+2024-12-20,955.98,Doctor,Health,Cash,"Doctor at Martinez, Jackson and West"
+2024-07-31,870.47,Internet,Utilities,Savings,"Internet at Quinn, Calhoun and Stewart"
+2025-05-29,777.17,Electricity,Utilities,Checkings,Electricity at Morgan Inc
+2024-10-07,849.42,Games,Entertainment,Checkings,"Games at Larson, Gray and Pollard"
+2025-06-14,924.71,Internet,Utilities,Cash,Internet at Schneider PLC
+2025-07-10,311.76,Water,Utilities,Credit Card,Water at Rivera Ltd
+2025-01-31,162.27,Games,Entertainment,Savings,"Games at Shaffer, Doyle and Mcdonald"
+2024-12-06,585.59,Parking,Transport,Checkings,Parking at Ho Inc
+2024-07-20,809.74,Restaurants,Food,Cash,"Restaurants at Curry, Andrews and Sanders"
+2024-10-10,653.87,Doctor,Health,Savings,"Doctor at Dougherty, Cook and Williams"
+2025-01-06,959.13,Water,Utilities,Cash,Water at Lee PLC
+2025-02-17,442.23,Electronics,Shopping,Savings,Electronics at Richardson and Sons
+2025-06-23,427.75,Electricity,Utilities,Cash,Electricity at Bailey Ltd
+2024-08-29,65.0,Water,Utilities,Checkings,Water at Anderson-Meyers
+2025-01-03,894.41,Pharmacy,Health,Cash,"Pharmacy at Ward, White and Vasquez"
+2024-11-17,834.22,Books,Shopping,Savings,"Books at Cannon, Rodriguez and Gomez"
+2024-11-14,291.54,Pharmacy,Health,Savings,Pharmacy at Parrish-Stevens
+2025-05-06,410.02,Books,Shopping,Cash,Books at Campbell LLC
+2024-09-25,917.28,Furniture,Shopping,Checkings,Furniture at Salazar PLC
+2024-11-24,787.54,Public Transport,Transport,Checkings,Public Transport at Morris-Smith
+2025-05-23,381.5,Electricity,Utilities,Savings,Electricity at Coleman PLC
+2024-09-10,780.93,Furniture,Shopping,Cash,Furniture at Burns-Greene
+2025-02-22,690.5,Gym,Health,Credit Card,"Gym at Harris, Freeman and Moss"
+2024-10-13,317.45,Events,Entertainment,Credit Card,"Events at Cline, Knight and Lee"
+2024-12-30,616.12,Books,Shopping,Savings,Books at Reilly PLC
+2024-11-13,148.32,Gym,Health,Cash,Gym at Graves LLC
+2025-07-09,116.29,Doctor,Health,Cash,Doctor at Garcia-Keller
+2024-09-14,288.7,Restaurants,Food,Credit Card,Restaurants at Andrade-Carey
+2024-12-21,94.54,Pharmacy,Health,Credit Card,"Pharmacy at Hill, Navarro and Kim"
+2025-07-02,890.33,Fuel,Transport,Savings,Fuel at Robertson Inc
+2025-07-03,66.86,Movies,Entertainment,Checkings,Movies at Shepherd-Hill
+2025-02-14,51.8,Gym,Health,Checkings,Gym at Deleon Ltd
+2025-04-29,14.14,Clothes,Shopping,Savings,Clothes at Owens Group
+2024-10-17,184.41,Pharmacy,Health,Checkings,"Pharmacy at Hardy, Taylor and Rodriguez"
+2025-06-28,210.4,Books,Shopping,Checkings,Books at Dillon Inc
+2024-08-31,605.61,Parking,Transport,Checkings,"Parking at Acevedo, Tucker and Carter"
+2024-07-29,881.44,Fuel,Transport,Cash,Fuel at Herrera and Sons
+2025-06-03,764.05,Public Transport,Transport,Savings,"Public Transport at White, Soto and Bolton"
+2025-03-16,963.39,Snacks,Food,Savings,Snacks at Johnson Group
+2024-12-05,564.36,Restaurants,Food,Credit Card,"Restaurants at Hunter, Mueller and Alvarado"
+2025-06-08,971.44,Groceries,Food,Savings,Groceries at Cole-Wilson
+2025-01-19,289.59,Parking,Transport,Cash,Parking at Webb-Barnes
+2025-04-25,715.32,Parking,Transport,Cash,"Parking at Chen, Hall and Contreras"
+2024-10-26,592.41,Events,Entertainment,Credit Card,Events at Webster-White
+2024-08-13,746.43,Parking,Transport,Savings,"Parking at Nelson, Rhodes and Rodriguez"
+2024-11-29,729.68,Groceries,Food,Savings,Groceries at Mitchell-Patel
+2024-10-27,500.67,Books,Shopping,Checkings,Books at Rice Inc
+2025-04-30,37.67,Taxi,Transport,Savings,"Taxi at Wright, Reid and Golden"
+2025-07-02,196.33,Public Transport,Transport,Checkings,Public Transport at Rodriguez Ltd
+2025-01-26,209.23,Insurance,Health,Checkings,Insurance at Bartlett Ltd
+2025-02-06,775.93,Pharmacy,Health,Checkings,"Pharmacy at Mullins, Baldwin and Nguyen"
+2025-03-15,276.35,Games,Entertainment,Cash,Games at Carr PLC
+2025-01-17,17.72,Furniture,Shopping,Cash,"Furniture at Taylor, Lozano and Patterson"
+2025-05-22,421.2,Furniture,Shopping,Credit Card,Furniture at Williams LLC
+2025-03-23,903.2,Clothes,Shopping,Cash,Clothes at Gilbert-English
+2025-07-18,138.73,Restaurants,Food,Savings,"Restaurants at Rangel, Grant and Richardson"
+2025-06-21,954.35,Furniture,Shopping,Credit Card,Furniture at Ellis LLC
+2025-03-27,911.37,Gas,Utilities,Savings,"Gas at Smith, Reyes and Berry"
+2024-09-07,917.33,Gas,Utilities,Cash,Gas at Carpenter Group
+2025-01-04,712.98,Groceries,Food,Savings,"Groceries at Garcia, Peters and Thomas"
+2025-07-14,737.17,Gas,Utilities,Savings,Gas at Hicks Inc
+2025-01-19,44.33,Restaurants,Food,Checkings,"Restaurants at Klein, Orozco and Barrett"
+2024-08-04,424.8,Groceries,Food,Checkings,Groceries at Smith and Sons
+2024-10-26,793.58,Restaurants,Food,Credit Card,"Restaurants at Brown, English and Silva"
+2025-06-30,224.12,Doctor,Health,Checkings,"Doctor at Haynes, Olson and Oliver"
+2025-02-10,304.74,Events,Entertainment,Cash,Events at Bennett LLC
+2024-10-22,344.24,Furniture,Shopping,Credit Card,"Furniture at Smith, Wolf and Harris"
+2024-10-29,464.0,Cafes,Food,Checkings,Cafes at Thompson-King
+2024-11-15,672.47,Cafes,Food,Cash,"Cafes at Perkins, Carter and Moyer"
+2025-05-02,595.24,Internet,Utilities,Savings,"Internet at Smith, Hill and Armstrong"
+2024-11-02,79.37,Pharmacy,Health,Savings,Pharmacy at Hall Group
+2025-04-06,141.11,Electricity,Utilities,Cash,Electricity at Ross PLC
+2025-06-08,216.94,Movies,Entertainment,Credit Card,Movies at Mendoza Group
+2025-07-13,874.75,Parking,Transport,Cash,"Parking at Estes, Rogers and Ryan"
+2025-02-27,876.14,Taxi,Transport,Checkings,Taxi at Perez LLC
+2024-12-02,207.55,Groceries,Food,Cash,"Groceries at Becker, Sanders and Edwards"
+2025-06-25,890.03,Gym,Health,Savings,Gym at Myers Group
+2025-06-28,358.75,Pharmacy,Health,Credit Card,Pharmacy at Blair-Mcdonald
+2025-05-17,150.46,Electricity,Utilities,Savings,"Electricity at Rubio, Gonzales and Murphy"
+2024-11-08,762.93,Pharmacy,Health,Checkings,"Pharmacy at Johnson, Hughes and Williams"
+2025-02-19,105.63,Parking,Transport,Savings,Parking at Walters-Thompson
+2024-10-07,495.65,Restaurants,Food,Credit Card,Restaurants at Brown-Sweeney
+2024-11-13,167.16,Games,Entertainment,Savings,"Games at Evans, Smith and Smith"
+2025-05-23,133.62,Clothes,Shopping,Credit Card,Clothes at Cooper Ltd
+2024-10-11,986.47,Cafes,Food,Savings,Cafes at Smith-Trevino
+2024-09-09,571.59,Furniture,Shopping,Checkings,"Furniture at Mcmahon, Bradley and Johnson"
+2024-09-08,621.7,Cafes,Food,Checkings,Cafes at Nunez-Scott
+2025-03-10,980.33,Restaurants,Food,Checkings,"Restaurants at Butler, Chavez and Bradley"
+2024-11-13,751.69,Snacks,Food,Cash,Snacks at King-Bean
+2024-10-30,406.85,Fuel,Transport,Cash,Fuel at Lopez LLC
+2025-02-21,314.91,Events,Entertainment,Savings,"Events at Yates, Wilson and Drake"
+2024-10-01,18.68,Fuel,Transport,Checkings,Fuel at Atkinson Group
+2024-10-27,992.3,Games,Entertainment,Credit Card,Games at Blevins-West
+2024-10-07,557.76,Parking,Transport,Credit Card,Parking at Jacobs Inc
+2024-09-10,930.78,Parking,Transport,Credit Card,Parking at Garcia Inc
+2024-10-22,755.01,Electronics,Shopping,Savings,"Electronics at Weaver, Galvan and Jackson"
+2024-10-01,683.59,Public Transport,Transport,Savings,"Public Transport at Camacho, Wolfe and Valenzuela"
+2025-04-25,807.66,Internet,Utilities,Credit Card,"Internet at Hernandez, Williams and Gallegos"
+2024-11-12,688.21,Doctor,Health,Credit Card,Doctor at Mcintyre-Yates
+2025-05-08,755.0,Groceries,Food,Savings,Groceries at Washington and Sons
+2025-04-07,860.78,Gym,Health,Cash,Gym at Mitchell Ltd
+2024-10-25,474.13,Internet,Utilities,Checkings,"Internet at Golden, Figueroa and Johnson"
+2024-11-25,582.25,Events,Entertainment,Checkings,"Events at Contreras, Medina and Miles"
+2024-08-03,211.56,Movies,Entertainment,Savings,Movies at Davidson LLC
+2025-06-29,54.13,Snacks,Food,Checkings,Snacks at Brooks Inc
+2025-03-18,367.7,Restaurants,Food,Savings,Restaurants at Yang PLC
+2025-01-10,296.64,Movies,Entertainment,Savings,Movies at James-Michael
+2024-09-13,498.24,Insurance,Health,Checkings,"Insurance at Kerr, Rich and Farrell"
+2025-02-06,893.12,Snacks,Food,Savings,Snacks at Case-Sanchez
+2024-11-16,412.28,Gas,Utilities,Checkings,"Gas at Buchanan, Clark and Henry"
+2024-08-15,24.51,Internet,Utilities,Cash,Internet at Berg Inc
+2025-02-20,517.39,Furniture,Shopping,Credit Card,"Furniture at Burton, Brady and Simmons"
+2025-05-24,378.38,Fuel,Transport,Savings,Fuel at Jackson and Sons
+2025-01-25,923.88,Gas,Utilities,Credit Card,Gas at Houston Group
+2025-03-24,641.4,Furniture,Shopping,Credit Card,"Furniture at Lopez, Davis and Manning"
+2025-06-10,29.58,Gas,Utilities,Checkings,Gas at Fields and Sons
+2024-10-16,664.31,Insurance,Health,Checkings,"Insurance at Cole, Mason and Walton"
+2024-10-28,108.11,Parking,Transport,Cash,Parking at Jimenez Inc
+2025-02-11,709.16,Streaming,Entertainment,Savings,Streaming at Austin Inc
+2025-06-26,72.78,Insurance,Health,Checkings,Insurance at Dunlap Group
+2024-09-21,387.74,Clothes,Shopping,Cash,Clothes at Morales-Browning
+2025-07-19,399.39,Gas,Utilities,Cash,Gas at Campbell and Sons
+2025-04-22,876.9,Parking,Transport,Savings,Parking at Russo PLC
+2025-05-19,789.22,Water,Utilities,Checkings,Water at Ortiz-Johnson
+2024-12-09,97.77,Clothes,Shopping,Savings,Clothes at Huber LLC
+2025-02-10,42.33,Events,Entertainment,Cash,Events at Morris Group
+2024-07-27,140.79,Snacks,Food,Checkings,"Snacks at Kelly, Adams and Reynolds"
+2025-07-10,642.71,Clothes,Shopping,Savings,Clothes at Wilson-Obrien
+2024-12-20,78.79,Clothes,Shopping,Credit Card,"Clothes at Mendez, Thomas and Thomas"
+2024-12-15,449.69,Events,Entertainment,Savings,Events at Lee-Ross
+2025-07-16,248.63,Parking,Transport,Checkings,Parking at Johnson-Benson
+2025-01-31,914.26,Furniture,Shopping,Checkings,Furniture at Murphy-Chavez
+2025-04-27,686.86,Insurance,Health,Cash,"Insurance at Logan, Landry and Hernandez"
+2025-05-11,536.25,Gym,Health,Checkings,Gym at Flynn-Hays
+2024-12-12,137.36,Taxi,Transport,Checkings,Taxi at Hall Group
+2025-04-21,251.42,Public Transport,Transport,Cash,Public Transport at Goodman Inc
+2025-01-22,503.45,Furniture,Shopping,Savings,Furniture at Maynard-Jackson
+2024-10-03,267.5,Groceries,Food,Credit Card,"Groceries at Myers, Summers and Thompson"
+2025-02-28,646.07,Clothes,Shopping,Cash,"Clothes at Floyd, Finley and Kirk"
+2025-06-15,467.57,Games,Entertainment,Savings,Games at Lowe-Webb
+2025-06-25,855.16,Cafes,Food,Savings,"Cafes at Herman, Ramos and Sanchez"
+2024-12-20,632.92,Pharmacy,Health,Checkings,"Pharmacy at White, Dominguez and Buckley"
+2024-12-19,924.63,Electricity,Utilities,Savings,Electricity at Johnson-Juarez
+2024-09-24,54.7,Pharmacy,Health,Cash,"Pharmacy at Neal, Johnson and Kelley"
+2024-07-26,895.67,Electronics,Shopping,Credit Card,"Electronics at Payne, Adams and Jones"
+2025-07-17,673.07,Clothes,Shopping,Savings,Clothes at Kemp Group
+2025-03-30,349.38,Doctor,Health,Cash,Doctor at Johnson PLC
+2024-10-19,209.19,Cafes,Food,Checkings,Cafes at Clark PLC
+2024-12-15,272.84,Groceries,Food,Checkings,Groceries at Castillo Ltd
+2025-03-21,999.93,Pharmacy,Health,Credit Card,Pharmacy at Davis Group
+2025-03-21,531.97,Restaurants,Food,Checkings,Restaurants at Turner-Tran
+2024-12-09,807.86,Gas,Utilities,Checkings,Gas at Clayton PLC
+2025-05-20,907.8,Snacks,Food,Credit Card,Snacks at Gutierrez-Warner
+2024-12-31,478.76,Streaming,Entertainment,Credit Card,"Streaming at Moran, Edwards and Cooper"
+2025-04-24,458.28,Insurance,Health,Savings,Insurance at Schroeder LLC
+2025-05-10,35.1,Electricity,Utilities,Savings,Electricity at Garcia-Johnson
+2025-01-29,21.48,Streaming,Entertainment,Checkings,Streaming at Carlson PLC
+2024-10-08,83.37,Pharmacy,Health,Checkings,Pharmacy at Anderson-Bauer
+2025-07-14,860.48,Clothes,Shopping,Checkings,"Clothes at Stevens, Mcclure and Edwards"
+2024-08-22,953.62,Water,Utilities,Credit Card,Water at Davis-Walsh
+2025-02-02,286.78,Streaming,Entertainment,Checkings,Streaming at Davis-Williams
+2025-05-18,105.68,Internet,Utilities,Cash,Internet at Walker-Nguyen
+2024-12-06,464.33,Electricity,Utilities,Credit Card,Electricity at Watson LLC
+2025-02-02,244.43,Games,Entertainment,Checkings,Games at Casey Group
+2025-05-22,919.94,Doctor,Health,Credit Card,Doctor at Hernandez LLC
+2025-04-06,520.82,Furniture,Shopping,Cash,"Furniture at Ortiz, Horton and Fuller"
+2025-07-13,354.97,Games,Entertainment,Credit Card,Games at Wright-Johnson
+2024-10-29,972.68,Parking,Transport,Credit Card,Parking at Clark and Sons
+2024-08-22,692.46,Groceries,Food,Savings,Groceries at Boyd-Bell
+2024-12-11,249.16,Insurance,Health,Credit Card,Insurance at Hancock and Sons
+2025-04-06,753.39,Streaming,Entertainment,Cash,Streaming at Skinner Ltd
+2025-01-18,849.9,Events,Entertainment,Savings,Events at Floyd-Mccarty
+2025-04-25,931.79,Restaurants,Food,Credit Card,"Restaurants at Sanchez, Crawford and Andrade"
+2024-12-26,370.82,Pharmacy,Health,Checkings,"Pharmacy at Mccullough, Rivera and Zimmerman"
+2025-05-02,773.6,Water,Utilities,Savings,Water at Hart LLC
+2025-01-07,249.53,Clothes,Shopping,Credit Card,"Clothes at Young, White and Holland"
+2025-06-19,729.53,Pharmacy,Health,Cash,Pharmacy at Benjamin-Hernandez
+2024-09-08,855.29,Insurance,Health,Credit Card,"Insurance at Marshall, Wright and Wise"
+2025-05-20,711.63,Pharmacy,Health,Savings,Pharmacy at Durham Ltd
+2024-08-23,372.3,Streaming,Entertainment,Credit Card,"Streaming at Hill, Ross and Thompson"
+2024-10-20,87.69,Streaming,Entertainment,Checkings,"Streaming at Hansen, Herman and Ponce"
+2024-10-10,896.71,Electricity,Utilities,Cash,"Electricity at Woods, Christensen and Benson"
+2024-09-14,601.76,Events,Entertainment,Savings,"Events at Rich, Aguilar and Landry"
+2025-02-27,379.95,Streaming,Entertainment,Cash,"Streaming at Collins, Smith and Gibson"
+2024-11-12,210.74,Public Transport,Transport,Savings,Public Transport at Nguyen-Cervantes
+2024-11-26,698.73,Electricity,Utilities,Credit Card,Electricity at Powers-Delgado
+2025-05-31,890.52,Pharmacy,Health,Cash,"Pharmacy at Tucker, Daugherty and Lloyd"
+2024-12-24,995.3,Cafes,Food,Savings,Cafes at Salazar Group
+2025-05-26,52.39,Gym,Health,Checkings,"Gym at Vargas, Thompson and Patterson"
+2025-05-04,88.54,Gym,Health,Credit Card,Gym at Farrell-Ortiz
+2025-01-08,821.91,Taxi,Transport,Cash,Taxi at Vargas-Moore
+2024-12-06,655.56,Doctor,Health,Cash,Doctor at Young and Sons
+2025-06-30,484.0,Events,Entertainment,Cash,Events at Rodriguez-Morgan
+2025-02-09,706.28,Snacks,Food,Credit Card,Snacks at Gardner-Young
+2025-07-04,148.45,Cafes,Food,Credit Card,Cafes at Mendoza LLC
+2025-06-04,245.64,Parking,Transport,Cash,Parking at Martinez-Peters
+2025-06-06,346.27,Furniture,Shopping,Checkings,"Furniture at Wheeler, Jones and Gill"
+2025-03-18,30.19,Parking,Transport,Checkings,Parking at Cooley-Silva
+2025-01-11,951.62,Insurance,Health,Savings,Insurance at Webb-Hull
+2025-07-06,214.76,Games,Entertainment,Checkings,Games at Gilmore Ltd
+2025-02-17,582.44,Clothes,Shopping,Cash,Clothes at Castro Ltd
+2025-04-05,75.03,Games,Entertainment,Savings,Games at Berger-Ramirez
+2025-06-26,510.78,Streaming,Entertainment,Credit Card,Streaming at Cherry-Owens
+2024-11-08,421.75,Groceries,Food,Checkings,"Groceries at Boyer, Barrett and Smith"
+2024-12-05,834.31,Gym,Health,Checkings,"Gym at Pollard, Gilmore and Bonilla"
+2025-07-12,323.15,Streaming,Entertainment,Checkings,"Streaming at Wilson, Stafford and Ruiz"
+2025-01-11,419.19,Water,Utilities,Savings,Water at Pittman-Hudson
+2025-04-18,704.46,Pharmacy,Health,Cash,Pharmacy at Perry LLC
+2024-08-29,835.09,Snacks,Food,Cash,Snacks at Moreno Ltd
+2025-01-06,641.98,Clothes,Shopping,Checkings,Clothes at Johnson LLC
+2024-11-26,647.58,Pharmacy,Health,Cash,Pharmacy at White Group
+2024-08-06,990.3,Furniture,Shopping,Cash,Furniture at Smith-Spencer
+2025-03-07,670.5,Clothes,Shopping,Savings,"Clothes at Mason, Wilson and Elliott"
+2024-12-10,959.77,Fuel,Transport,Savings,"Fuel at Gibson, Murphy and Rivera"
+2025-02-19,688.59,Electronics,Shopping,Cash,"Electronics at Collins, Stout and Ayers"
+2025-06-04,649.59,Games,Entertainment,Credit Card,Games at Boyer PLC
+2025-04-30,199.67,Fuel,Transport,Credit Card,"Fuel at Wells, Gallagher and Foster"
+2025-01-06,827.64,Fuel,Transport,Checkings,Fuel at Vaughn-Hughes
+2025-06-05,777.94,Restaurants,Food,Checkings,"Restaurants at Robertson, Howe and Mathis"
+2025-06-23,365.41,Furniture,Shopping,Cash,Furniture at Mason Group
+2025-05-12,330.76,Streaming,Entertainment,Cash,Streaming at Torres-Hanson
+2025-04-22,912.91,Electricity,Utilities,Credit Card,Electricity at Gonzalez-Walker
+2024-09-01,511.77,Doctor,Health,Cash,"Doctor at Shea, Romero and House"
+2024-11-27,695.65,Pharmacy,Health,Checkings,"Pharmacy at Patterson, Oconnell and Thompson"
+2025-03-15,359.31,Water,Utilities,Credit Card,Water at Cortez-Price
+2024-11-05,890.97,Furniture,Shopping,Credit Card,Furniture at Doyle-Byrd
+2024-12-22,759.07,Pharmacy,Health,Checkings,"Pharmacy at Mills, Howard and Fuller"
+2024-08-30,409.14,Cafes,Food,Checkings,"Cafes at Bell, Carter and Buchanan"
+2025-02-27,189.2,Events,Entertainment,Savings,Events at Cole and Sons
+2024-10-06,364.17,Cafes,Food,Credit Card,Cafes at Santiago and Sons
+2024-11-19,15.24,Clothes,Shopping,Checkings,"Clothes at Hall, Huynh and Knox"
+2024-08-27,184.86,Snacks,Food,Checkings,Snacks at Gutierrez-Howard
+2025-01-06,226.14,Streaming,Entertainment,Savings,"Streaming at Baker, Stevens and Bowman"
+2025-05-10,699.83,Clothes,Shopping,Checkings,Clothes at Mueller LLC
+2025-07-04,391.63,Furniture,Shopping,Cash,Furniture at Morgan PLC
+2024-09-16,192.46,Water,Utilities,Credit Card,Water at Maldonado-Scott
+2025-05-26,901.25,Movies,Entertainment,Savings,Movies at Hall and Sons
+2025-02-21,681.19,Fuel,Transport,Cash,"Fuel at Young, Kim and Coleman"
+2024-07-30,722.16,Games,Entertainment,Credit Card,"Games at Snyder, Henderson and Jimenez"
+2025-02-20,219.06,Doctor,Health,Credit Card,Doctor at Fisher-Miller
+2025-05-07,920.4,Gym,Health,Credit Card,"Gym at Miller, Nelson and Molina"
+2025-07-02,49.63,Electricity,Utilities,Credit Card,Electricity at Mayer and Sons
+2024-08-08,214.82,Restaurants,Food,Credit Card,"Restaurants at Smith, Jackson and Young"
+2024-08-16,66.86,Gym,Health,Savings,"Gym at Jackson, Nicholson and Mcclain"
+2025-03-21,713.69,Games,Entertainment,Savings,"Games at Wilcox, Collins and Dominguez"
+2024-12-06,289.93,Water,Utilities,Credit Card,"Water at Johnson, Kennedy and Williams"
+2024-08-01,750.52,Pharmacy,Health,Checkings,Pharmacy at Hunter and Sons
+2024-08-31,809.06,Insurance,Health,Cash,Insurance at Jenkins-Duffy
+2024-11-08,951.66,Clothes,Shopping,Checkings,Clothes at Knight-Berry
+2025-07-19,614.66,Clothes,Shopping,Savings,Clothes at Soto-Allen
+2025-05-09,171.96,Snacks,Food,Cash,Snacks at Wilson Group
+2025-06-03,534.2,Public Transport,Transport,Checkings,Public Transport at Mendoza Group
+2025-03-11,267.55,Water,Utilities,Checkings,Water at Craig-Adkins
+2025-01-13,90.13,Water,Utilities,Cash,Water at Pierce-Allen
+2024-12-26,532.08,Water,Utilities,Credit Card,Water at Johnson-Medina
+2025-05-02,791.23,Gas,Utilities,Credit Card,"Gas at Lewis, Finley and Miles"
+2024-12-20,396.02,Doctor,Health,Credit Card,Doctor at Foster Inc
+2024-09-07,566.45,Doctor,Health,Credit Card,Doctor at Carter LLC
+2025-01-08,311.35,Gas,Utilities,Checkings,"Gas at Patton, Price and Watson"
+2025-04-07,165.06,Movies,Entertainment,Savings,"Movies at Keith, Johnston and Lyons"
+2024-10-13,640.76,Gym,Health,Savings,"Gym at Green, Montoya and Smith"
+2024-10-11,464.49,Insurance,Health,Savings,"Insurance at Wilson, Pineda and Miller"
+2024-07-30,30.88,Electricity,Utilities,Savings,Electricity at Spencer-Johnson
+2024-11-16,870.62,Furniture,Shopping,Checkings,Furniture at Davis-Robbins
+2025-01-15,305.1,Games,Entertainment,Credit Card,Games at Gonzalez-Roman
+2024-12-12,693.61,Pharmacy,Health,Credit Card,Pharmacy at Arellano PLC
+2025-05-22,813.15,Books,Shopping,Credit Card,Books at Long-Taylor
+2024-11-15,680.52,Streaming,Entertainment,Checkings,Streaming at Jenkins-Hall
+2024-09-15,817.26,Movies,Entertainment,Savings,"Movies at Curtis, Allen and Cruz"
+2024-12-28,417.27,Snacks,Food,Checkings,"Snacks at Riddle, Gray and Phillips"
+2025-05-06,959.31,Movies,Entertainment,Credit Card,"Movies at Holloway, Jackson and Martin"
+2025-03-05,732.87,Internet,Utilities,Credit Card,"Internet at Hensley, Ward and Rivas"
+2025-05-07,586.64,Doctor,Health,Cash,Doctor at Andrade-Bird
+2025-04-11,612.23,Events,Entertainment,Credit Card,"Events at Guzman, Hart and Fox"
+2024-08-10,924.9,Doctor,Health,Savings,Doctor at Hunt LLC
+2025-07-03,925.37,Movies,Entertainment,Cash,Movies at Walton-Miller
+2024-10-31,816.73,Public Transport,Transport,Savings,"Public Transport at Sanford, Wilson and Johnson"
+2025-01-23,727.16,Gas,Utilities,Savings,Gas at Donovan Ltd
+2024-11-25,684.61,Taxi,Transport,Checkings,Taxi at Grant PLC
+2024-12-27,348.97,Electricity,Utilities,Cash,Electricity at Brown Group
+2025-01-19,133.74,Parking,Transport,Checkings,"Parking at Thompson, Gomez and Oliver"
+2025-06-02,446.73,Electronics,Shopping,Checkings,"Electronics at Briggs, Miller and Garcia"
+2024-08-14,958.41,Books,Shopping,Credit Card,Books at Norman Inc
+2025-03-29,793.57,Pharmacy,Health,Credit Card,"Pharmacy at Bennett, Clark and Nicholson"
+2024-10-15,401.81,Pharmacy,Health,Cash,Pharmacy at Holmes-Farley
+2025-05-29,956.84,Electronics,Shopping,Savings,"Electronics at Smith, Nguyen and Brown"
+2025-03-11,345.35,Furniture,Shopping,Cash,Furniture at Hebert LLC
+2025-02-19,939.07,Restaurants,Food,Savings,Restaurants at Mejia-Navarro
+2024-08-01,54.62,Gas,Utilities,Checkings,Gas at Skinner-Thomas
+2024-10-01,577.72,Events,Entertainment,Checkings,Events at Black-Bailey
+2024-08-25,541.91,Movies,Entertainment,Credit Card,Movies at Frank-Beltran
+2025-04-05,961.24,Doctor,Health,Credit Card,Doctor at Zimmerman LLC
+2024-12-31,292.47,Restaurants,Food,Checkings,"Restaurants at Mcdonald, Johns and Jones"
+2025-02-15,795.69,Water,Utilities,Savings,Water at Lowery-Whitaker
+2025-07-18,347.34,Furniture,Shopping,Checkings,Furniture at Morse-Schaefer
+2024-08-02,632.75,Events,Entertainment,Credit Card,Events at Braun-Martinez
+2025-06-30,219.35,Groceries,Food,Cash,Groceries at Reyes LLC
+2025-05-14,397.3,Movies,Entertainment,Savings,Movies at Collier PLC
+2025-04-11,245.85,Gym,Health,Savings,"Gym at Johnson, Williams and Ward"
+2025-03-16,128.39,Clothes,Shopping,Checkings,Clothes at Lee Inc
+2024-09-18,970.82,Internet,Utilities,Savings,Internet at Wood-Petty
+2025-02-16,153.89,Streaming,Entertainment,Savings,Streaming at Silva Group
+2024-11-24,771.46,Water,Utilities,Checkings,"Water at Wilson, Nunez and Hernandez"
+2024-12-13,108.17,Electricity,Utilities,Credit Card,Electricity at Hopkins Inc
+2024-11-09,442.63,Games,Entertainment,Savings,"Games at Keller, Wiley and Becker"
+2024-12-18,330.64,Streaming,Entertainment,Checkings,Streaming at Mitchell and Sons
+2025-01-16,613.18,Games,Entertainment,Cash,Games at Gordon-Klein
+2025-07-05,114.72,Streaming,Entertainment,Cash,"Streaming at Henry, Floyd and Martinez"
+2025-02-28,802.28,Streaming,Entertainment,Cash,"Streaming at Ryan, Clayton and Frost"
+2024-09-30,224.9,Gym,Health,Cash,"Gym at Harris, Johnson and Lee"
+2024-11-30,280.6,Fuel,Transport,Checkings,Fuel at Nunez and Sons
+2025-03-22,309.87,Events,Entertainment,Credit Card,"Events at Robinson, Bell and Mendez"
+2025-06-12,754.98,Doctor,Health,Credit Card,Doctor at Sanders Group
+2025-05-28,417.92,Gym,Health,Savings,Gym at Murphy-Gutierrez
+2024-11-05,737.8,Electronics,Shopping,Credit Card,"Electronics at Davis, Ball and May"
+2024-11-16,273.95,Groceries,Food,Cash,Groceries at Johnson Ltd
+2024-08-05,578.81,Streaming,Entertainment,Savings,Streaming at Banks-Everett
+2025-03-06,487.65,Groceries,Food,Cash,Groceries at Lawson-Morales
+2024-12-28,424.46,Games,Entertainment,Savings,Games at Mccarthy-Brown
+2025-05-18,717.52,Cafes,Food,Cash,"Cafes at Brown, Anderson and Rodriguez"
+2025-05-30,178.24,Clothes,Shopping,Savings,Clothes at Hart-Miller
+2025-07-16,450.23,Gym,Health,Savings,Gym at Nolan-Black
+2025-02-02,791.36,Restaurants,Food,Cash,"Restaurants at Owens, Henderson and Miller"
+2024-07-28,309.53,Clothes,Shopping,Cash,Clothes at Butler-Phillips
+2024-12-19,651.28,Clothes,Shopping,Cash,Clothes at White Inc
+2024-11-23,741.25,Events,Entertainment,Cash,Events at Henderson PLC
+2024-10-09,973.14,Movies,Entertainment,Credit Card,"Movies at Parker, Mendoza and Brown"
+2025-03-13,995.76,Restaurants,Food,Credit Card,"Restaurants at Thomas, Pace and Davis"
+2024-11-16,801.73,Doctor,Health,Cash,Doctor at Tran-Smith
+2024-10-22,99.7,Taxi,Transport,Credit Card,"Taxi at Johnson, Rivers and Arias"
+2025-02-25,622.9,Gas,Utilities,Cash,Gas at Hernandez LLC
+2024-10-26,22.8,Insurance,Health,Credit Card,Insurance at Mason-Tucker
+2024-10-06,433.15,Doctor,Health,Savings,Doctor at Obrien PLC
+2025-05-12,886.29,Cafes,Food,Cash,"Cafes at Harmon, Fleming and Phillips"
+2025-01-27,377.72,Groceries,Food,Credit Card,"Groceries at Torres, Bridges and May"
+2024-08-08,364.06,Electronics,Shopping,Checkings,Electronics at White-Turner
+2025-06-14,464.53,Books,Shopping,Savings,Books at Davis Inc
+2024-08-04,487.63,Gas,Utilities,Credit Card,Gas at Roach-Simpson
+2025-02-24,79.92,Gas,Utilities,Cash,Gas at Cochran Ltd
+2025-05-22,844.38,Groceries,Food,Cash,Groceries at Phillips LLC
+2024-07-20,317.91,Streaming,Entertainment,Checkings,"Streaming at Moore, Daniel and Orozco"
+2024-09-24,610.5,Gym,Health,Credit Card,Gym at Barajas PLC
+2024-10-02,344.68,Groceries,Food,Checkings,Groceries at Hayes Group
+2024-09-08,732.12,Books,Shopping,Checkings,Books at Rodriguez LLC
+2025-06-02,452.02,Restaurants,Food,Cash,"Restaurants at Kaiser, Lee and Gutierrez"
+2024-10-09,864.47,Movies,Entertainment,Checkings,Movies at Bullock-Sanchez
+2025-04-07,950.73,Water,Utilities,Checkings,"Water at Stewart, Webster and Esparza"
+2024-08-03,832.07,Books,Shopping,Cash,Books at Allen-Bryant
+2025-04-30,347.32,Groceries,Food,Checkings,Groceries at Caldwell-Williams
+2025-07-09,554.65,Internet,Utilities,Savings,Internet at Mcmahon-Thomas
+2025-03-09,937.49,Internet,Utilities,Savings,Internet at Hood-Cline
+2024-08-26,100.96,Pharmacy,Health,Credit Card,Pharmacy at Schmidt-Davis
+2024-08-10,594.31,Cafes,Food,Credit Card,Cafes at Walker and Sons
+2025-03-29,387.55,Pharmacy,Health,Cash,"Pharmacy at Dominguez, Kelly and Steele"
+2024-11-10,829.54,Clothes,Shopping,Savings,"Clothes at Garcia, Owens and Valencia"
+2025-06-25,20.55,Events,Entertainment,Credit Card,Events at Williams-Jenkins
+2025-06-02,623.99,Water,Utilities,Savings,"Water at Anderson, Edwards and Booth"
+2024-12-23,755.45,Electronics,Shopping,Credit Card,Electronics at Williams-Miller
+2025-04-21,469.45,Cafes,Food,Credit Card,Cafes at Harper and Sons
+2025-01-28,822.18,Electricity,Utilities,Checkings,Electricity at Knapp and Sons
+2025-04-18,819.95,Gym,Health,Checkings,Gym at Johnson Inc
+2024-12-19,284.16,Fuel,Transport,Checkings,Fuel at Diaz-Mcdowell
+2025-03-11,494.55,Electricity,Utilities,Credit Card,"Electricity at Galloway, Romero and Hart"
+2025-04-17,824.44,Public Transport,Transport,Cash,Public Transport at Torres PLC
+2024-08-07,79.56,Movies,Entertainment,Credit Card,Movies at Sullivan PLC
+2025-01-14,390.41,Taxi,Transport,Checkings,"Taxi at Keller, Cruz and Ho"
+2025-02-23,317.76,Public Transport,Transport,Cash,Public Transport at Jones-Hughes
+2025-05-31,289.88,Furniture,Shopping,Checkings,Furniture at Shelton LLC
+2025-01-21,360.34,Movies,Entertainment,Cash,"Movies at Schneider, Aguirre and Floyd"
+2025-06-10,921.78,Parking,Transport,Cash,Parking at Brewer-Schultz
+2025-05-21,691.57,Public Transport,Transport,Cash,"Public Transport at Harding, Frazier and Jacobs"
+2024-07-20,884.4,Cafes,Food,Credit Card,Cafes at Yang-Wong
+2025-04-19,765.46,Cafes,Food,Credit Card,Cafes at Long-Mclean
+2024-11-13,80.82,Books,Shopping,Savings,Books at Burgess-Berry
+2025-06-07,268.7,Cafes,Food,Cash,Cafes at Rhodes-Cuevas
+2024-11-07,272.32,Parking,Transport,Checkings,Parking at Jackson-Rubio
+2025-01-18,27.96,Gas,Utilities,Credit Card,Gas at Mendez-Ware
+2025-03-20,240.26,Movies,Entertainment,Checkings,Movies at Mitchell-Bolton
+2024-10-12,786.84,Doctor,Health,Checkings,Doctor at Crosby PLC
+2025-06-29,610.01,Books,Shopping,Credit Card,Books at Richards-Flores
+2025-03-15,663.42,Furniture,Shopping,Cash,"Furniture at Wright, Lane and Thomas"
+2024-09-01,441.94,Events,Entertainment,Cash,"Events at Scott, Sweeney and Molina"
+2025-07-02,524.1,Parking,Transport,Cash,"Parking at Lucas, Garcia and Brown"
+2025-03-18,346.4,Water,Utilities,Savings,Water at Reeves-Newton
+2025-04-23,48.3,Clothes,Shopping,Checkings,Clothes at Williams Ltd
+2025-02-01,91.76,Internet,Utilities,Savings,Internet at Davis LLC
+2024-08-08,811.89,Events,Entertainment,Savings,Events at Murray Inc
+2024-10-28,279.57,Pharmacy,Health,Savings,Pharmacy at Meyers-Campbell
+2025-03-09,245.27,Gym,Health,Credit Card,"Gym at Newman, Gross and Torres"
+2025-07-05,227.82,Gas,Utilities,Cash,"Gas at Hernandez, Gonzalez and Riley"
+2025-04-21,473.59,Furniture,Shopping,Cash,Furniture at Fernandez and Sons
+2025-05-06,211.24,Clothes,Shopping,Credit Card,Clothes at Parsons-Spencer
+2024-07-26,722.4,Streaming,Entertainment,Checkings,"Streaming at Lee, Sanders and Mosley"
+2025-05-29,350.74,Furniture,Shopping,Cash,Furniture at Howell-Barker
+2025-06-12,518.39,Movies,Entertainment,Cash,Movies at Mcclain-King
+2025-01-27,73.25,Games,Entertainment,Credit Card,"Games at Smith, Nichols and Moran"
+2024-08-10,177.76,Pharmacy,Health,Checkings,"Pharmacy at Smith, Delgado and Alvarez"
+2024-12-22,656.02,Parking,Transport,Checkings,Parking at Skinner LLC
+2025-03-26,531.29,Books,Shopping,Checkings,Books at Rodgers-Garcia
+2025-02-07,643.52,Electricity,Utilities,Credit Card,Electricity at Strong-Johnson
+2025-04-13,512.89,Water,Utilities,Checkings,"Water at Craig, Myers and Pace"
+2025-03-31,447.64,Parking,Transport,Cash,Parking at Perez Group
+2025-02-08,650.71,Parking,Transport,Savings,Parking at Brady-Johnson
+2025-01-29,738.46,Streaming,Entertainment,Cash,Streaming at Robinson Inc
+2025-03-31,421.56,Electronics,Shopping,Checkings,Electronics at Mckee Ltd
+2025-04-05,508.81,Electronics,Shopping,Savings,Electronics at Sweeney-Robinson
+2025-06-22,898.28,Books,Shopping,Checkings,Books at King PLC
+2024-09-12,628.31,Fuel,Transport,Credit Card,Fuel at Taylor and Sons
+2024-09-26,728.18,Streaming,Entertainment,Checkings,Streaming at Harris PLC
+2024-10-15,510.69,Clothes,Shopping,Checkings,"Clothes at Harris, Castro and Knight"
+2025-04-02,45.06,Internet,Utilities,Savings,Internet at Brooks-Long
+2024-10-08,341.99,Events,Entertainment,Credit Card,Events at Day and Sons
+2024-08-09,407.51,Public Transport,Transport,Cash,Public Transport at Smith-Hernandez
+2024-07-25,76.66,Pharmacy,Health,Credit Card,Pharmacy at Rice LLC
+2025-03-31,58.99,Public Transport,Transport,Cash,Public Transport at Gutierrez-Roberts
+2025-01-17,144.39,Gym,Health,Savings,"Gym at Alvarez, Mason and Smith"
+2025-03-17,781.46,Cafes,Food,Savings,Cafes at Lee-Kent
+2025-05-27,82.65,Snacks,Food,Credit Card,Snacks at Cunningham PLC
+2025-01-04,297.4,Pharmacy,Health,Credit Card,Pharmacy at Zimmerman-Smith
+2024-11-22,439.49,Pharmacy,Health,Checkings,Pharmacy at Carlson PLC
+2024-09-21,330.8,Fuel,Transport,Savings,Fuel at Palmer and Sons
+2025-01-10,243.86,Doctor,Health,Checkings,Doctor at Chang-Ford
+2025-04-17,546.67,Insurance,Health,Checkings,"Insurance at Hughes, Campbell and Simpson"
+2024-10-24,80.2,Gym,Health,Checkings,Gym at Duran Ltd
+2025-03-10,935.62,Public Transport,Transport,Cash,"Public Transport at Hoover, Reed and Payne"
+2025-03-29,775.85,Doctor,Health,Checkings,Doctor at Smith Ltd
+2025-04-30,361.04,Restaurants,Food,Checkings,Restaurants at Bradley-Miller
+2025-02-11,922.31,Pharmacy,Health,Checkings,"Pharmacy at Villanueva, Mckenzie and Brewer"
+2025-07-01,703.79,Fuel,Transport,Credit Card,"Fuel at Norman, Clark and Carter"
+2025-02-09,690.69,Electricity,Utilities,Savings,"Electricity at Roberts, Hicks and Jones"
+2024-08-27,100.84,Pharmacy,Health,Credit Card,Pharmacy at Carr-Kim
+2025-04-29,848.07,Electricity,Utilities,Credit Card,Electricity at Cantu-Mitchell
+2025-06-26,121.49,Cafes,Food,Credit Card,Cafes at Gallegos-Stephens
+2024-12-20,573.52,Taxi,Transport,Savings,"Taxi at Harvey, Washington and Elliott"
+2025-04-21,18.25,Restaurants,Food,Credit Card,Restaurants at Smith Inc
+2024-11-18,84.5,Clothes,Shopping,Savings,Clothes at Garza-Gordon
+2025-04-14,356.82,Books,Shopping,Credit Card,"Books at Howell, Young and Williamson"
+2024-12-20,84.62,Water,Utilities,Checkings,"Water at Williams, Porter and Strong"
+2025-01-08,834.71,Movies,Entertainment,Credit Card,Movies at Carrillo-Murphy
+2025-04-15,221.85,Gym,Health,Checkings,"Gym at Blankenship, Taylor and Walters"
+2025-06-09,797.95,Events,Entertainment,Cash,Events at Solis PLC
+2025-06-29,257.4,Public Transport,Transport,Cash,"Public Transport at Jones, Olson and Taylor"
+2025-06-23,605.37,Movies,Entertainment,Cash,Movies at Hill-Orozco
+2025-03-05,957.71,Streaming,Entertainment,Checkings,"Streaming at Spencer, Johnson and Williams"
+2025-01-27,992.16,Parking,Transport,Checkings,Parking at Barnes LLC
+2025-06-10,707.28,Insurance,Health,Credit Card,Insurance at Davis and Sons
+2024-09-17,65.56,Electricity,Utilities,Credit Card,Electricity at Guerra Ltd
+2025-04-17,163.05,Fuel,Transport,Checkings,"Fuel at Carter, Gilbert and Morgan"
+2024-07-31,597.06,Games,Entertainment,Credit Card,"Games at Lambert, Ball and Daniel"
+2024-10-27,343.55,Gas,Utilities,Savings,Gas at Gonzalez PLC
+2024-10-16,587.87,Snacks,Food,Cash,Snacks at Meyer PLC
+2024-10-06,109.33,Insurance,Health,Cash,"Insurance at Jordan, Miller and Ruiz"
+2025-03-05,691.48,Snacks,Food,Cash,Snacks at Christensen-Murray
+2025-02-15,620.32,Fuel,Transport,Cash,Fuel at Roberts-Miles
+2025-05-18,580.58,Electronics,Shopping,Checkings,"Electronics at Harris, Brown and Roy"
+2025-02-12,884.35,Parking,Transport,Savings,Parking at Williams Inc
+2025-05-17,67.63,Cafes,Food,Checkings,Cafes at Weber PLC
+2025-06-02,304.31,Games,Entertainment,Cash,Games at Gray LLC
+2024-12-21,447.71,Public Transport,Transport,Credit Card,Public Transport at Ortiz Inc
+2025-04-27,468.36,Electronics,Shopping,Checkings,Electronics at Robertson-Fisher
+2025-05-31,555.13,Snacks,Food,Savings,"Snacks at Copeland, Lindsey and Jones"
+2025-06-18,680.48,Furniture,Shopping,Cash,Furniture at Perez PLC
+2024-07-28,483.72,Electronics,Shopping,Savings,Electronics at Crane-Acosta
+2025-04-25,934.94,Electronics,Shopping,Savings,Electronics at Becker-Benton
+2024-12-23,190.07,Groceries,Food,Credit Card,Groceries at Rivera-Ford
+2025-06-11,355.12,Electricity,Utilities,Credit Card,"Electricity at Martinez, Woods and Mack"
+2024-11-30,888.25,Electricity,Utilities,Checkings,Electricity at King-Davis
+2025-07-15,687.28,Public Transport,Transport,Checkings,Public Transport at Benton Ltd
+2025-04-25,429.96,Events,Entertainment,Cash,Events at May PLC
+2025-02-16,391.29,Pharmacy,Health,Credit Card,Pharmacy at Stevens-Goodwin
+2024-07-24,933.86,Public Transport,Transport,Credit Card,"Public Transport at Henry, Reyes and Hughes"
+2025-04-13,512.29,Doctor,Health,Savings,Doctor at Hernandez Inc
+2025-06-23,576.24,Clothes,Shopping,Checkings,"Clothes at Fernandez, Avila and Wright"
+2025-06-18,521.52,Events,Entertainment,Savings,Events at Rodriguez LLC
+2025-05-21,815.24,Gas,Utilities,Credit Card,Gas at Perez LLC
+2025-03-05,41.6,Events,Entertainment,Savings,Events at Rodgers-Turner
+2025-04-06,622.71,Snacks,Food,Cash,"Snacks at Wilson, Brown and Welch"
+2024-09-01,867.32,Pharmacy,Health,Savings,Pharmacy at Hernandez-Levine
+2025-03-19,549.16,Doctor,Health,Cash,"Doctor at Bailey, Chambers and Thomas"
+2025-03-22,701.17,Games,Entertainment,Savings,Games at Gordon-Shepherd
+2024-07-30,380.73,Electronics,Shopping,Credit Card,Electronics at Rhodes-Cordova
+2025-06-11,770.8,Gas,Utilities,Credit Card,Gas at Flores-Ball
+2024-11-07,82.61,Snacks,Food,Savings,"Snacks at Shaw, Bond and Gill"
+2025-02-10,728.39,Gas,Utilities,Checkings,Gas at Gonzalez PLC
+2025-01-17,337.2,Groceries,Food,Savings,Groceries at Turner and Sons
+2025-01-10,307.02,Snacks,Food,Cash,"Snacks at Thompson, Garrett and Gill"
+2025-04-18,886.17,Gas,Utilities,Cash,Gas at Hahn Ltd
+2025-04-09,692.3,Electricity,Utilities,Checkings,Electricity at Frank-Jenkins
+2025-05-23,881.46,Fuel,Transport,Checkings,Fuel at Collins LLC
+2024-12-18,86.28,Electricity,Utilities,Savings,Electricity at Marks Group
+2024-09-30,609.59,Events,Entertainment,Cash,Events at Gibson-Davies
+2025-07-17,407.2,Gym,Health,Checkings,Gym at Diaz Ltd
+2025-04-02,90.93,Restaurants,Food,Savings,Restaurants at Morton Inc
+2025-02-01,801.32,Games,Entertainment,Checkings,"Games at Arnold, Vang and Odonnell"
+2025-01-01,241.57,Doctor,Health,Checkings,Doctor at Cole-Elliott
+2025-04-22,128.11,Clothes,Shopping,Checkings,Clothes at Morris-Gutierrez
+2025-02-06,634.03,Taxi,Transport,Credit Card,"Taxi at Mcdaniel, Rodriguez and Williams"
+2024-09-19,36.28,Furniture,Shopping,Credit Card,"Furniture at Johnson, Baldwin and Hull"
+2025-04-14,302.66,Streaming,Entertainment,Checkings,Streaming at Martin-Kramer
+2025-06-26,407.72,Movies,Entertainment,Checkings,"Movies at Willis, Smith and Gray"
+2024-11-06,924.54,Events,Entertainment,Cash,Events at Smith Ltd
+2025-02-11,677.76,Insurance,Health,Credit Card,Insurance at Rosales and Sons
+2025-02-06,912.99,Pharmacy,Health,Credit Card,Pharmacy at Burgess and Sons
+2024-10-14,523.74,Groceries,Food,Cash,Groceries at Roberts LLC
+2024-08-14,241.69,Parking,Transport,Savings,Parking at Stewart Inc
+2025-02-23,884.91,Clothes,Shopping,Savings,Clothes at Rice-Long
+2025-05-12,717.34,Movies,Entertainment,Credit Card,Movies at Cooper-Green
+2025-06-28,728.26,Taxi,Transport,Credit Card,"Taxi at Juarez, Baldwin and Clarke"
+2024-09-16,289.23,Water,Utilities,Cash,Water at Carrillo-Brown
+2025-06-04,754.67,Public Transport,Transport,Checkings,"Public Transport at Wood, Ramirez and Sellers"
+2025-05-07,883.88,Games,Entertainment,Cash,Games at Macdonald-David
+2025-01-31,588.39,Public Transport,Transport,Credit Card,"Public Transport at Decker, Anderson and Clark"
+2025-02-10,238.47,Cafes,Food,Checkings,Cafes at Morales-Stewart
+2024-07-21,583.86,Water,Utilities,Savings,Water at Thornton-Woods
+2025-01-29,42.4,Movies,Entertainment,Checkings,Movies at Martinez-Payne
+2024-12-10,733.52,Furniture,Shopping,Cash,"Furniture at Wagner, Harrison and Shelton"
+2024-10-19,402.46,Restaurants,Food,Savings,Restaurants at Paul-Owens
+2024-11-02,570.02,Public Transport,Transport,Savings,Public Transport at Mcfarland Ltd
+2025-06-13,667.3,Cafes,Food,Savings,Cafes at Wilson LLC
+2025-01-13,841.84,Pharmacy,Health,Credit Card,"Pharmacy at Gates, Smith and Conway"
+2024-08-17,556.07,Movies,Entertainment,Savings,Movies at White LLC
+2024-08-21,340.13,Electricity,Utilities,Savings,"Electricity at Vazquez, Martin and Torres"
+2025-05-25,106.3,Water,Utilities,Checkings,Water at Riley Ltd
+2024-10-06,527.05,Electricity,Utilities,Credit Card,Electricity at Lowe Ltd
+2025-01-28,852.09,Games,Entertainment,Savings,Games at Nguyen-Calderon
+2025-07-07,589.42,Snacks,Food,Cash,Snacks at Yang Inc
+2025-01-29,477.78,Movies,Entertainment,Checkings,Movies at Calderon-Simpson
+2025-02-04,30.42,Streaming,Entertainment,Cash,"Streaming at Perez, Barajas and Contreras"
+2024-08-14,490.29,Clothes,Shopping,Cash,Clothes at Kirby and Sons
+2024-10-09,902.02,Parking,Transport,Checkings,"Parking at Bush, Martinez and Ford"
+2025-02-26,332.93,Groceries,Food,Cash,Groceries at Martinez LLC
+2024-09-15,297.74,Gym,Health,Cash,Gym at Lopez-Alvarez
+2025-04-28,758.45,Gas,Utilities,Credit Card,Gas at Williams Ltd
+2025-04-11,341.12,Games,Entertainment,Checkings,"Games at Smith, Jones and Caldwell"
+2024-12-23,15.13,Books,Shopping,Checkings,Books at Smith PLC
+2025-02-04,965.58,Groceries,Food,Checkings,Groceries at Farmer-Peters
+2024-11-18,197.24,Books,Shopping,Credit Card,"Books at Ingram, Moore and Peters"
+2025-06-14,473.27,Books,Shopping,Credit Card,"Books at Wood, Nixon and Wright"
+2024-07-30,555.07,Books,Shopping,Checkings,Books at Anderson PLC
+2024-09-21,368.99,Gas,Utilities,Cash,Gas at Hebert-Harris
+2024-12-03,221.82,Books,Shopping,Checkings,"Books at Tate, Rose and Wright"
+2024-07-27,777.33,Streaming,Entertainment,Checkings,Streaming at Turner Ltd
+2025-06-16,93.71,Books,Shopping,Credit Card,Books at Jones-Weaver
+2025-02-04,587.79,Groceries,Food,Credit Card,Groceries at Ortega and Sons
+2025-07-17,336.37,Parking,Transport,Savings,"Parking at Robinson, Owens and Edwards"
+2025-04-19,531.35,Public Transport,Transport,Cash,"Public Transport at Martinez, Raymond and Russell"
+2025-02-06,963.2,Fuel,Transport,Savings,"Fuel at Barnes, Mason and Graves"
+2024-12-08,27.79,Insurance,Health,Checkings,Insurance at Turner Group
+2024-09-02,930.44,Snacks,Food,Credit Card,"Snacks at Davis, Cooper and Melendez"
+2025-05-27,261.91,Gym,Health,Checkings,Gym at Marshall-Russell
+2024-11-01,182.54,Snacks,Food,Credit Card,Snacks at Cantrell PLC
+2024-12-17,824.86,Furniture,Shopping,Checkings,"Furniture at Herrera, Anderson and Gray"
+2024-09-24,667.01,Books,Shopping,Cash,"Books at Jones, Wright and Buck"
+2025-06-10,666.52,Water,Utilities,Savings,Water at Aguilar-Johnston
+2025-02-05,625.5,Public Transport,Transport,Credit Card,Public Transport at Willis-Farmer
+2025-05-04,246.6,Cafes,Food,Savings,Cafes at Castillo-Rodriguez
+2024-08-26,396.69,Water,Utilities,Savings,Water at Mejia-Dominguez
+2024-10-26,908.02,Streaming,Entertainment,Cash,Streaming at Bowers Ltd
+2024-09-30,285.91,Parking,Transport,Credit Card,Parking at Sanchez-Martin
+2024-09-08,390.03,Movies,Entertainment,Cash,"Movies at Beard, Rice and Johnson"
+2024-10-28,965.8,Events,Entertainment,Credit Card,"Events at Gibson, Caldwell and Kane"
+2024-12-11,524.82,Clothes,Shopping,Savings,Clothes at Diaz Inc
+2024-10-10,863.67,Streaming,Entertainment,Credit Card,Streaming at Trujillo-Sanchez
+2025-01-25,25.42,Electricity,Utilities,Checkings,"Electricity at Dillon, Myers and Ruiz"
+2025-03-31,509.38,Groceries,Food,Cash,Groceries at Sexton Inc
+2025-05-26,743.9,Cafes,Food,Savings,"Cafes at Watson, Smith and White"
+2024-09-25,257.11,Clothes,Shopping,Checkings,"Clothes at Kelly, Colon and Burch"
+2025-06-05,622.49,Insurance,Health,Checkings,"Insurance at Shields, Robinson and Wright"
+2024-12-22,242.89,Snacks,Food,Checkings,Snacks at Quinn Inc
+2024-09-01,740.49,Events,Entertainment,Savings,"Events at Rogers, Thompson and Green"
+2025-04-18,369.48,Public Transport,Transport,Cash,Public Transport at Lopez Group
+2025-05-01,464.73,Taxi,Transport,Credit Card,"Taxi at Johnson, Goodman and Valencia"
+2025-05-11,572.85,Games,Entertainment,Savings,Games at Rivas-Jackson
+2025-05-26,673.63,Events,Entertainment,Cash,"Events at Patton, Young and Bell"
+2025-04-15,227.31,Clothes,Shopping,Cash,"Clothes at Ramirez, Henderson and Barry"
+2025-07-06,680.51,Clothes,Shopping,Cash,Clothes at Erickson-Cunningham
+2025-04-05,39.49,Movies,Entertainment,Cash,"Movies at Martin, Carpenter and Jordan"
+2024-09-29,743.2,Electronics,Shopping,Cash,Electronics at Brown-Vazquez
+2024-12-15,519.24,Public Transport,Transport,Checkings,Public Transport at Mooney-Mckinney
+2025-06-19,972.22,Furniture,Shopping,Credit Card,Furniture at Berry-Little
+2025-02-03,848.91,Gym,Health,Checkings,Gym at Ware-Macias
+2024-07-25,210.14,Snacks,Food,Credit Card,"Snacks at Murphy, Daugherty and Miller"
+2024-11-21,110.15,Electronics,Shopping,Cash,"Electronics at Kennedy, Hayden and Hicks"
+2024-08-09,314.22,Parking,Transport,Savings,"Parking at Jones, Stewart and Schaefer"
+2024-10-16,606.93,Furniture,Shopping,Credit Card,Furniture at Williams Group
+2024-08-01,96.08,Books,Shopping,Checkings,Books at Pope-Figueroa
+2024-12-08,71.13,Games,Entertainment,Cash,Games at Williams-Stokes
+2024-07-30,471.57,Gym,Health,Savings,Gym at Bell-Huynh
+2025-07-02,77.86,Streaming,Entertainment,Savings,"Streaming at Carroll, Rogers and Santiago"
+2025-06-05,426.18,Games,Entertainment,Savings,"Games at Young, Walton and Dyer"
+2025-03-11,302.91,Events,Entertainment,Savings,"Events at Shaw, Grimes and Dunn"
+2025-04-01,972.99,Taxi,Transport,Credit Card,Taxi at Donovan and Sons
+2025-02-28,781.32,Furniture,Shopping,Checkings,"Furniture at Chambers, Murillo and Humphrey"
+2025-01-25,235.69,Electricity,Utilities,Savings,"Electricity at Edwards, Jacobson and Johnson"
+2025-06-19,427.96,Fuel,Transport,Cash,"Fuel at Miller, Baker and Bell"
+2024-11-27,690.68,Furniture,Shopping,Checkings,"Furniture at Garcia, Smith and Ball"
+2024-09-13,319.84,Cafes,Food,Checkings,Cafes at Price PLC
+2024-08-28,508.5,Movies,Entertainment,Savings,"Movies at Camacho, Snyder and Davis"
+2025-02-21,418.98,Books,Shopping,Cash,Books at Harrison-Mcknight
+2025-05-19,605.43,Pharmacy,Health,Savings,Pharmacy at Williams LLC
+2025-02-16,155.2,Gas,Utilities,Checkings,Gas at Allen-Mosley
+2025-07-08,204.56,Games,Entertainment,Savings,Games at Gonzalez Ltd
